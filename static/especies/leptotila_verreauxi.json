@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Leptotila verreauxi",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Leptotila verreauxi",
+    "common_name": "White-tipped Dove",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/268175748/medium.jpeg"
+    ],
+    "image_local": "/static/especies/leptotila_verreauxi/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/3280"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2496060,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Columbiformes",
+    "family": "Columbidae",
+    "genus": "Leptotila",
+    "species": "Leptotila verreauxi",
+    "vernacular_name": "White-tipped Dove",
+    "countries": [
+      "CR",
+      "CO",
+      "US",
+      "BR",
+      "MX",
+      "AR",
+      "PA",
+      "BZ",
+      "GT",
+      "EC",
+      "VE",
+      "PE",
+      "HN",
+      "PY",
+      "UY",
+      "NI",
+      "TT",
+      "SV",
+      "BO",
+      "CW"
+    ],
+    "url": "https://www.gbif.org/species/2496060"
+  }
+}

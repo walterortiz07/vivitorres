@@ -1,0 +1,39 @@
+{
+  "scientific_name": "Dolichandra aff. unguis-cati",
+  "inat": {},
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 5830619,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Bignoniaceae",
+    "genus": "Dolichandra",
+    "species": "Dolichandra unguis-cati",
+    "vernacular_name": "Catclaw vine",
+    "countries": [
+      "AU",
+      "BR",
+      "US",
+      "MX",
+      "AR",
+      "CO",
+      "PY",
+      "ZA",
+      "PR",
+      "BO",
+      "JM",
+      "CR",
+      "VE",
+      "UY",
+      "PE",
+      "PT",
+      "VI",
+      "DO",
+      "NI",
+      "PA"
+    ],
+    "url": "https://www.gbif.org/species/5830619"
+  }
+}

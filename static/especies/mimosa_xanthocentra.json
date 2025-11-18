@@ -1,0 +1,40 @@
+{
+  "scientific_name": "Mimosa xanthocentra",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Mimosa xanthocentra",
+    "common_name": null,
+    "summary": null,
+    "images_remote": [
+      "https://static.inaturalist.org/photos/2614757/medium.jpg"
+    ],
+    "image_local": "/static/especies/mimosa_xanthocentra/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/138379"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2969590,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae",
+    "genus": "Mimosa",
+    "species": "Mimosa xanthocentra",
+    "vernacular_name": null,
+    "countries": [
+      "BR",
+      "PY",
+      "BO",
+      "AR",
+      "CO",
+      "CR",
+      "VE",
+      "PE",
+      "NI",
+      "UY",
+      "ZZ"
+    ],
+    "url": "https://www.gbif.org/species/2969590"
+  }
+}

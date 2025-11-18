@@ -1,0 +1,18 @@
+{
+  "scientific_name": "Camptorhynchus turdinus",
+  "inat": {},
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 1210289,
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Coleoptera",
+    "family": "Curculionidae",
+    "genus": "Camptorhynchus",
+    "species": null,
+    "vernacular_name": null,
+    "countries": [],
+    "url": "https://www.gbif.org/species/1210289"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "scientific_name": "Sporophila plumbea",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Sporophila plumbea",
+    "common_name": "Plumbeous Seedeater",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/1095509/medium.jpg"
+    ],
+    "image_local": "/static/especies/sporophila_plumbea/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/367713"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2491380,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Thraupidae",
+    "genus": "Sporophila",
+    "species": "Sporophila plumbea",
+    "vernacular_name": "Plumbeous Seedeater",
+    "countries": [
+      "BR",
+      "GY",
+      "CO",
+      "VE",
+      "PY",
+      "BO",
+      "GF",
+      "SR",
+      "PE",
+      "AR",
+      "ZZ"
+    ],
+    "url": "https://www.gbif.org/species/2491380"
+  }
+}

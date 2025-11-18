@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Pisonia aculeata",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Pisonia aculeata",
+    "common_name": "Native Bougainvillea",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/184927647/medium.jpg"
+    ],
+    "image_local": "/static/especies/pisonia_aculeata/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/166911"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 3086260,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Caryophyllales",
+    "family": "Nyctaginaceae",
+    "genus": "Pisonia",
+    "species": "Pisonia aculeata",
+    "vernacular_name": "Pullback",
+    "countries": [
+      "MX",
+      "CO",
+      "BR",
+      "TW",
+      "AU",
+      "US",
+      "CR",
+      "CU",
+      "PY",
+      "CN",
+      "JP",
+      "PR",
+      "EC",
+      "NI",
+      "DO",
+      "AR",
+      "PH",
+      "JM",
+      "ID",
+      "NC"
+    ],
+    "url": "https://www.gbif.org/species/3086260"
+  }
+}

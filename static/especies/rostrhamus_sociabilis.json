@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Rostrhamus sociabilis",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Rostrhamus sociabilis",
+    "common_name": "Snail Kite",
+    "summary": null,
+    "images_remote": [
+      "https://static.inaturalist.org/photos/3492573/medium.jpg"
+    ],
+    "image_local": "/static/especies/rostrhamus_sociabilis/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/5349"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2480415,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Rostrhamus",
+    "species": "Rostrhamus sociabilis",
+    "vernacular_name": "Snail Kite",
+    "countries": [
+      "US",
+      "AR",
+      "BR",
+      "CO",
+      "MX",
+      "BZ",
+      "EC",
+      "PA",
+      "CR",
+      "PY",
+      "HN",
+      "PE",
+      "UY",
+      "GY",
+      "GT",
+      "CU",
+      "BO",
+      "SR",
+      "VE",
+      "SV"
+    ],
+    "url": "https://www.gbif.org/species/2480415"
+  }
+}

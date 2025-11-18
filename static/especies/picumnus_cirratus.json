@@ -1,0 +1,40 @@
+{
+  "scientific_name": "Picumnus cirratus",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Picumnus cirratus",
+    "common_name": "White-barred Piculet",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/226767660/medium.jpeg"
+    ],
+    "image_local": "/static/especies/picumnus_cirratus/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/17827"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 9587550,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Piciformes",
+    "family": "Picidae",
+    "genus": "Picumnus",
+    "species": "Picumnus cirratus",
+    "vernacular_name": "White-barred Piculet",
+    "countries": [
+      "BR",
+      "AR",
+      "PY",
+      "UY",
+      "BO",
+      "GY",
+      "GF",
+      "PE",
+      "ZZ",
+      "GR",
+      "PA"
+    ],
+    "url": "https://www.gbif.org/species/9587550"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Erythrina crista-galli",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Erythrina crista-galli",
+    "common_name": "Cockspur coral tree",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/175796134/medium.jpeg"
+    ],
+    "image_local": "/static/especies/erythrina_crista-galli/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/162718"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 5349719,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae",
+    "genus": "Erythrina",
+    "species": "Erythrina crista-galli",
+    "vernacular_name": "Cockspur coral tree",
+    "countries": [
+      "AU",
+      "AR",
+      "BR",
+      "UY",
+      "US",
+      "PY",
+      "PT",
+      "ZA",
+      "NZ",
+      "ZZ",
+      "CO",
+      "ES",
+      "IN",
+      "JP",
+      "CN",
+      "MX",
+      "ID",
+      "PE",
+      "CR",
+      "BO"
+    ],
+    "url": "https://www.gbif.org/species/5349719"
+  }
+}

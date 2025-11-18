@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Setaria parviflora",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Setaria parviflora",
+    "common_name": "knotroot bristlegrass",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/50707544/medium.jpeg"
+    ],
+    "image_local": "/static/especies/setaria_parviflora/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/79068"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 5289679,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Liliopsida",
+    "order": "Poales",
+    "family": "Poaceae",
+    "genus": "Setaria",
+    "species": "Setaria parviflora",
+    "vernacular_name": "Knotroot Bristle-grass",
+    "countries": [
+      "AU",
+      "US",
+      "BR",
+      "MX",
+      "BJ",
+      "PT",
+      "TW",
+      "AR",
+      "FR",
+      "ES",
+      "CO",
+      "BF",
+      "ID",
+      "EC",
+      "CR",
+      "CM",
+      "PY",
+      "CI",
+      "BO",
+      "TZ"
+    ],
+    "url": "https://www.gbif.org/species/5289679"
+  }
+}

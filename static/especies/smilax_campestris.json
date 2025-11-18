@@ -1,0 +1,37 @@
+{
+  "scientific_name": "Smilax campestris",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Smilax campestris",
+    "common_name": null,
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/80043036/medium.jpg"
+    ],
+    "image_local": "/static/especies/smilax_campestris/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/865293"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 5295485,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Liliopsida",
+    "order": "Liliales",
+    "family": "Smilacaceae",
+    "genus": "Smilax",
+    "species": "Smilax campestris",
+    "vernacular_name": null,
+    "countries": [
+      "BR",
+      "AR",
+      "UY",
+      "BO",
+      "PY",
+      "VE",
+      "ZZ",
+      "ID"
+    ],
+    "url": "https://www.gbif.org/species/5295485"
+  }
+}

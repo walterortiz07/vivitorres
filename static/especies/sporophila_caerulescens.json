@@ -1,0 +1,43 @@
+{
+  "scientific_name": "Sporophila caerulescens",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Sporophila caerulescens",
+    "common_name": "Double-collared Seedeater",
+    "summary": null,
+    "images_remote": [
+      "https://static.inaturalist.org/photos/303058924/medium.jpeg"
+    ],
+    "image_local": "/static/especies/sporophila_caerulescens/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/9517"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2491376,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Thraupidae",
+    "genus": "Sporophila",
+    "species": "Sporophila caerulescens",
+    "vernacular_name": "Double-collared Seedeater",
+    "countries": [
+      "BR",
+      "AR",
+      "PY",
+      "UY",
+      "BO",
+      "PE",
+      "CO",
+      "ZZ",
+      "FK",
+      "GR",
+      "CL",
+      "GY",
+      "KM",
+      "PA"
+    ],
+    "url": "https://www.gbif.org/species/2491376"
+  }
+}

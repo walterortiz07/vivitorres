@@ -1,0 +1,39 @@
+{
+  "scientific_name": "Copernicia alba",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Copernicia alba",
+    "common_name": "Caranday Palm",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/78431565/medium.jpg"
+    ],
+    "image_local": "/static/especies/copernicia_alba/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/346357"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2738280,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Liliopsida",
+    "order": "Arecales",
+    "family": "Arecaceae",
+    "genus": "Copernicia",
+    "species": "Copernicia alba",
+    "vernacular_name": "caranday palm",
+    "countries": [
+      "AR",
+      "PY",
+      "BO",
+      "BR",
+      "US",
+      "BE",
+      "CN",
+      "CO",
+      "ZA",
+      "ZZ"
+    ],
+    "url": "https://www.gbif.org/species/2738280"
+  }
+}

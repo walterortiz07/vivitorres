@@ -1,0 +1,31 @@
+{
+  "scientific_name": "Aramides ypecaa",
+  "inat": {},
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2474657,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Gruiformes",
+    "family": "Rallidae",
+    "genus": "Aramides",
+    "species": "Aramides ypecaha",
+    "vernacular_name": "Giant Wood-Rail",
+    "countries": [
+      "AR",
+      "UY",
+      "BR",
+      "PY",
+      "BO",
+      "US",
+      "CA",
+      "ES",
+      "NL",
+      "DE",
+      "GB",
+      "ZZ"
+    ],
+    "url": "https://www.gbif.org/species/2474657"
+  }
+}

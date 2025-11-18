@@ -1,0 +1,41 @@
+{
+  "scientific_name": "Sebastiania brasiliensis",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Sebastiania brasiliensis",
+    "common_name": null,
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/26973912/medium.jpeg"
+    ],
+    "image_local": "/static/especies/sebastiania_brasiliensis/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/704880"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 5380609,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Malpighiales",
+    "family": "Euphorbiaceae",
+    "genus": "Sebastiania",
+    "species": "Sebastiania brasiliensis",
+    "vernacular_name": null,
+    "countries": [
+      "BR",
+      "PY",
+      "AR",
+      "BO",
+      "UY",
+      "ZZ",
+      "CO",
+      "MX",
+      "VE",
+      "BZ",
+      "CL",
+      "SV"
+    ],
+    "url": "https://www.gbif.org/species/5380609"
+  }
+}

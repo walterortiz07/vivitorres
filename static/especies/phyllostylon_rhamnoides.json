@@ -1,0 +1,47 @@
+{
+  "scientific_name": "Phyllostylon rhamnoides",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Phyllostylon rhamnoides",
+    "common_name": null,
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/379037717/medium.jpeg"
+    ],
+    "image_local": "/static/especies/phyllostylon_rhamnoides/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/185028"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 4160095,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Ulmaceae",
+    "genus": "Phyllostylon",
+    "species": "Phyllostylon rhamnoides",
+    "vernacular_name": null,
+    "countries": [
+      "CO",
+      "BO",
+      "AR",
+      "NI",
+      "PY",
+      "MX",
+      "CU",
+      "BR",
+      "DO",
+      "HN",
+      "HT",
+      "VE",
+      "GT",
+      "CR",
+      "JM",
+      "SV",
+      "PG",
+      "ZZ"
+    ],
+    "url": "https://www.gbif.org/species/4160095"
+  }
+}

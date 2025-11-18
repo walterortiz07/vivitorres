@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Portulaca umbraticola",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Portulaca umbraticola",
+    "common_name": "wingpod purslane",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/131908957/medium.jpeg"
+    ],
+    "image_local": "/static/especies/portulaca_umbraticola/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/167316"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 3084698,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Caryophyllales",
+    "family": "Portulacaceae",
+    "genus": "Portulaca",
+    "species": "Portulaca umbraticola",
+    "vernacular_name": "Wingpod Purslane",
+    "countries": [
+      "US",
+      "BR",
+      "MX",
+      "IN",
+      "AR",
+      "PA",
+      "TW",
+      "EC",
+      "CR",
+      "PY",
+      "PH",
+      "ZA",
+      "HK",
+      "CN",
+      "CO",
+      "MY",
+      "ID",
+      "PE",
+      "NI",
+      "TH"
+    ],
+    "url": "https://www.gbif.org/species/3084698"
+  }
+}

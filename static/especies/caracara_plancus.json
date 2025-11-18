@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Caracara plancus",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Caracara plancus",
+    "common_name": "Crested Caracara",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/344678876/medium.jpeg"
+    ],
+    "image_local": "/static/especies/caracara_plancus/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/4715"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2480989,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Falconiformes",
+    "family": "Falconidae",
+    "genus": "Caracara",
+    "species": "Caracara plancus",
+    "vernacular_name": "Southern Caracara / Southern Crested Caracara",
+    "countries": [
+      "US",
+      "AR",
+      "BR",
+      "CR",
+      "MX",
+      "CO",
+      "CL",
+      "UY",
+      "VE",
+      "PA",
+      "HN",
+      "PY",
+      "BO",
+      "CU",
+      "CW",
+      "NI",
+      "PE",
+      "GT",
+      "BQ",
+      "EC"
+    ],
+    "url": "https://www.gbif.org/species/2480989"
+  }
+}

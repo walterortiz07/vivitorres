@@ -1,0 +1,18 @@
+{
+  "scientific_name": "Columba squammata",
+  "inat": {},
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 11007940,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Columbiformes",
+    "family": "Columbidae",
+    "genus": "Columbina",
+    "species": "Columbina squammata",
+    "vernacular_name": null,
+    "countries": [],
+    "url": "https://www.gbif.org/species/11007940"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Rupornis magnirostris",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Rupornis magnirostris",
+    "common_name": "Roadside Hawk",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/14667/medium.jpg"
+    ],
+    "image_local": "/static/especies/rupornis_magnirostris/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/201041"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 5844398,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Rupornis",
+    "species": "Rupornis magnirostris",
+    "vernacular_name": "Roadside Hawk",
+    "countries": [
+      "CO",
+      "BR",
+      "CR",
+      "AR",
+      "MX",
+      "EC",
+      "BZ",
+      "PE",
+      "PA",
+      "VE",
+      "GT",
+      "HN",
+      "UY",
+      "BO",
+      "PY",
+      "NI",
+      "SV",
+      "GY",
+      "US",
+      "SR"
+    ],
+    "url": "https://www.gbif.org/species/5844398"
+  }
+}

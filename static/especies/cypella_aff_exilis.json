@@ -1,0 +1,24 @@
+{
+  "scientific_name": "Cypella aff. exilis",
+  "inat": {},
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2745918,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Liliopsida",
+    "order": "Asparagales",
+    "family": "Iridaceae",
+    "genus": "Cypella",
+    "species": "Cypella exilis",
+    "vernacular_name": null,
+    "countries": [
+      "BR",
+      "PY",
+      "UY",
+      "AR",
+      "GY"
+    ],
+    "url": "https://www.gbif.org/species/2745918"
+  }
+}

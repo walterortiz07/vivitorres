@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Eleocharis elegans",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Eleocharis elegans",
+    "common_name": "elegant spikerush",
+    "summary": null,
+    "images_remote": [
+      "https://static.inaturalist.org/photos/2433341/medium.jpg"
+    ],
+    "image_local": "/static/especies/eleocharis_elegans/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/290522"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2717227,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Liliopsida",
+    "order": "Poales",
+    "family": "Cyperaceae",
+    "genus": "Eleocharis",
+    "species": "Eleocharis elegans",
+    "vernacular_name": "Elegant Spikerush",
+    "countries": [
+      "BR",
+      "MX",
+      "CR",
+      "CO",
+      "PY",
+      "EC",
+      "NI",
+      "PR",
+      "PE",
+      "AR",
+      "PA",
+      "VE",
+      "BO",
+      "JM",
+      "DO",
+      "HN",
+      "GT",
+      "SV",
+      "CU",
+      "BZ"
+    ],
+    "url": "https://www.gbif.org/species/2717227"
+  }
+}

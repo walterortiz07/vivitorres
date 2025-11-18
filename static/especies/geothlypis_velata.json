@@ -1,0 +1,41 @@
+{
+  "scientific_name": "Geothlypis velata",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Geothlypis velata",
+    "common_name": "Southern Yellowthroat",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/57668973/medium.jpg"
+    ],
+    "image_local": "/static/especies/geothlypis_velata/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/1437094"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 6100791,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Parulidae",
+    "genus": "Geothlypis",
+    "species": "Geothlypis velata",
+    "vernacular_name": "Southern Yellowthroat",
+    "countries": [
+      "BR",
+      "AR",
+      "UY",
+      "PY",
+      "BO",
+      "PE",
+      "CL",
+      "ZZ",
+      "GF",
+      "MX",
+      "CO",
+      "NI"
+    ],
+    "url": "https://www.gbif.org/species/6100791"
+  }
+}

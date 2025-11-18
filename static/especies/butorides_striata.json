@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Butorides striata",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Butorides virescens",
+    "common_name": "Green Heron",
+    "summary": null,
+    "images_remote": [
+      "https://static.inaturalist.org/photos/182999416/medium.jpg"
+    ],
+    "image_local": "/static/especies/butorides_striata/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/5020"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2480824,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Pelecaniformes",
+    "family": "Ardeidae",
+    "genus": "Butorides",
+    "species": "Butorides striata",
+    "vernacular_name": "Striated Heron",
+    "countries": [
+      "BR",
+      "CO",
+      "AU",
+      "ZA",
+      "IN",
+      "EC",
+      "PE",
+      "AR",
+      "TH",
+      "TW",
+      "SG",
+      "MY",
+      "VE",
+      "PA",
+      "PH",
+      "ID",
+      "KE",
+      "TT",
+      "AE",
+      "PY"
+    ],
+    "url": "https://www.gbif.org/species/2480824"
+  }
+}

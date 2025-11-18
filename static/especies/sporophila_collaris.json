@@ -1,0 +1,38 @@
+{
+  "scientific_name": "Sporophila collaris",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Sporophila collaris",
+    "common_name": "Rusty-collared Seedeater",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/32567696/medium.jpg"
+    ],
+    "image_local": "/static/especies/sporophila_collaris/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/9516"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2491350,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Thraupidae",
+    "genus": "Sporophila",
+    "species": "Sporophila collaris",
+    "vernacular_name": "Rusty-collared Seedeater",
+    "countries": [
+      "AR",
+      "BR",
+      "PY",
+      "BO",
+      "UY",
+      "DK",
+      "VE",
+      "EC",
+      "ZZ"
+    ],
+    "url": "https://www.gbif.org/species/2491350"
+  }
+}

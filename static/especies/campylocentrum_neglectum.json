@@ -1,0 +1,33 @@
+{
+  "scientific_name": "Campylocentrum neglectum",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Campylocentrum neglectum",
+    "common_name": null,
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/265485406/medium.jpeg"
+    ],
+    "image_local": "/static/especies/campylocentrum_neglectum/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/1464950"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2820905,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Liliopsida",
+    "order": "Asparagales",
+    "family": "Orchidaceae",
+    "genus": "Campylocentrum",
+    "species": "Campylocentrum neglectum",
+    "vernacular_name": null,
+    "countries": [
+      "PY",
+      "BR",
+      "AR",
+      "BO"
+    ],
+    "url": "https://www.gbif.org/species/2820905"
+  }
+}

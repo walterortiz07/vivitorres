@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Acrocomia aculeata",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Acrocomia aculeata",
+    "common_name": "Macaw palm",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/584808/medium.jpg"
+    ],
+    "image_local": "/static/especies/acrocomia_aculeata/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/244459"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 7413879,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Liliopsida",
+    "order": "Arecales",
+    "family": "Arecaceae",
+    "genus": "Acrocomia",
+    "species": "Acrocomia aculeata",
+    "vernacular_name": null,
+    "countries": [
+      "CO",
+      "MX",
+      "BR",
+      "PR",
+      "CR",
+      "GF",
+      "US",
+      "PA",
+      "BO",
+      "VE",
+      "JM",
+      "PY",
+      "AR",
+      "HN",
+      "NI",
+      "DO",
+      "TT",
+      "GT",
+      "MQ",
+      "CU"
+    ],
+    "url": "https://www.gbif.org/species/7413879"
+  }
+}

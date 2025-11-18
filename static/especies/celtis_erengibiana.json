@@ -1,0 +1,39 @@
+{
+  "scientific_name": "Celtis erengibiana",
+  "inat": {},
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2984479,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Cannabaceae",
+    "genus": "Celtis",
+    "species": null,
+    "vernacular_name": "hackberry",
+    "countries": [
+      "US",
+      "FR",
+      "ES",
+      "BR",
+      "CN",
+      "MX",
+      "IT",
+      "AU",
+      "KR",
+      "JP",
+      "TW",
+      "BJ",
+      "AR",
+      "CA",
+      "PT",
+      "ZA",
+      "CO",
+      "BO",
+      "PY",
+      "ID"
+    ],
+    "url": "https://www.gbif.org/species/2984479"
+  }
+}

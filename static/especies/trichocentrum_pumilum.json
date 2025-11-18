@@ -1,0 +1,39 @@
+{
+  "scientific_name": "Trichocentrum pumilum",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Trichocentrum pumilum",
+    "common_name": null,
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/55538573/medium.jpg"
+    ],
+    "image_local": "/static/especies/trichocentrum_pumilum/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/796017"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2846498,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Liliopsida",
+    "order": "Asparagales",
+    "family": "Orchidaceae",
+    "genus": "Trichocentrum",
+    "species": "Trichocentrum pumilum",
+    "vernacular_name": "mule-ear orchid",
+    "countries": [
+      "BR",
+      "PY",
+      "AR",
+      "UY",
+      "CO",
+      "US",
+      "ZZ",
+      "BE",
+      "FR",
+      "PE"
+    ],
+    "url": "https://www.gbif.org/species/2846498"
+  }
+}

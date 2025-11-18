@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Jacana jacana",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Charadriiformes",
+    "common_name": "Shorebirds and Allies",
+    "summary": null,
+    "images_remote": [
+      "https://static.inaturalist.org/photos/477606789/medium.jpeg"
+    ],
+    "image_local": "/static/especies/jacana_jacana/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/67561"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2481846,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Charadriiformes",
+    "family": "Jacanidae",
+    "genus": "Jacana",
+    "species": "Jacana jacana",
+    "vernacular_name": "Wattled Jacana",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "PA",
+      "PE",
+      "VE",
+      "PY",
+      "EC",
+      "UY",
+      "BO",
+      "TT",
+      "GY",
+      "SR",
+      "GF",
+      "CR",
+      "CW",
+      "GD",
+      "BQ",
+      "US",
+      "CL"
+    ],
+    "url": "https://www.gbif.org/species/2481846"
+  }
+}

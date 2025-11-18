@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Busarellus nigricollis",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Busarellus nigricollis",
+    "common_name": "Black-collared Hawk",
+    "summary": null,
+    "images_remote": [
+      "https://static.inaturalist.org/photos/121909793/medium.jpeg"
+    ],
+    "image_local": "/static/especies/busarellus_nigricollis/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/5346"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2480692,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Busarellus",
+    "species": "Busarellus nigricollis",
+    "vernacular_name": "Black-collared Hawk",
+    "countries": [
+      "BR",
+      "CO",
+      "PE",
+      "CR",
+      "AR",
+      "BZ",
+      "VE",
+      "BO",
+      "MX",
+      "GY",
+      "PY",
+      "PA",
+      "SR",
+      "GT",
+      "GF",
+      "NI",
+      "EC",
+      "HN",
+      "SV",
+      "UY"
+    ],
+    "url": "https://www.gbif.org/species/2480692"
+  }
+}

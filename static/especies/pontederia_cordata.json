@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Pontederia cordata",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Pontederia cordata",
+    "common_name": "pickerelweed",
+    "summary": null,
+    "images_remote": [
+      "https://static.inaturalist.org/photos/20738067/medium.jpg"
+    ],
+    "image_local": "/static/especies/pontederia_cordata/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/52599"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2766030,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Liliopsida",
+    "order": "Commelinales",
+    "family": "Pontederiaceae",
+    "genus": "Pontederia",
+    "species": "Pontederia cordata",
+    "vernacular_name": "Pickerelweed",
+    "countries": [
+      "US",
+      "CA",
+      "NL",
+      "BE",
+      "BR",
+      "PY",
+      "AR",
+      "GB",
+      "ZA",
+      "DE",
+      "FR",
+      "CZ",
+      "MX",
+      "CH",
+      "CN",
+      "MO",
+      "AU",
+      "CO",
+      "UY",
+      "BO"
+    ],
+    "url": "https://www.gbif.org/species/2766030"
+  }
+}

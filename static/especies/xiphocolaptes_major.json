@@ -1,0 +1,34 @@
+{
+  "scientific_name": "Xiphocolaptes major",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Xiphocolaptes major",
+    "common_name": "Great Rufous Woodcreeper",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/565453/medium.jpeg"
+    ],
+    "image_local": "/static/especies/xiphocolaptes_major/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/10865"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2485489,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Furnariidae",
+    "genus": "Xiphocolaptes",
+    "species": "Xiphocolaptes major",
+    "vernacular_name": "Great Rufous Woodcreeper",
+    "countries": [
+      "AR",
+      "BR",
+      "PY",
+      "BO",
+      "EC"
+    ],
+    "url": "https://www.gbif.org/species/2485489"
+  }
+}

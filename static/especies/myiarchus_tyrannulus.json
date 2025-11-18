@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Myiarchus tyrannulus",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Myiarchus tyrannulus",
+    "common_name": "Brown-crested Flycatcher",
+    "summary": null,
+    "images_remote": [
+      "https://static.inaturalist.org/photos/70760951/medium.jpeg"
+    ],
+    "image_local": "/static/especies/myiarchus_tyrannulus/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/16016"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2483589,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Tyrannidae",
+    "genus": "Myiarchus",
+    "species": "Myiarchus tyrannulus",
+    "vernacular_name": "Brown-crested Flycatcher",
+    "countries": [
+      "US",
+      "MX",
+      "BR",
+      "BZ",
+      "CR",
+      "CO",
+      "GT",
+      "AR",
+      "HN",
+      "VE",
+      "BQ",
+      "NI",
+      "TT",
+      "BO",
+      "CW",
+      "PY",
+      "SV",
+      "PE",
+      "AW",
+      "GY"
+    ],
+    "url": "https://www.gbif.org/species/2483589"
+  }
+}

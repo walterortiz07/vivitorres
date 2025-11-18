@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Cichorium intybus",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Cichorium intybus",
+    "common_name": "chicory",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/283894255/medium.jpg"
+    ],
+    "image_local": "/static/especies/cichorium_intybus/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/52913"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 5392252,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Asterales",
+    "family": "Asteraceae",
+    "genus": "Cichorium",
+    "species": "Cichorium intybus",
+    "vernacular_name": "Chicory",
+    "countries": [
+      "FR",
+      "US",
+      "NL",
+      "DE",
+      "RU",
+      "CA",
+      "ES",
+      "SE",
+      "GB",
+      "CH",
+      "PL",
+      "DK",
+      "IT",
+      "AT",
+      "BE",
+      "UA",
+      "PT",
+      "AU",
+      "CZ",
+      "NO"
+    ],
+    "url": "https://www.gbif.org/species/5392252"
+  }
+}

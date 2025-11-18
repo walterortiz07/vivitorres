@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Coragyps atratus",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Coragyps atratus",
+    "common_name": "Black Vulture",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/14689662/medium.jpg"
+    ],
+    "image_local": "/static/especies/coragyps_atratus/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/4765"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2481942,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Accipitriformes",
+    "family": "Cathartidae",
+    "genus": "Coragyps",
+    "species": "Coragyps atratus",
+    "vernacular_name": "Black Vulture",
+    "countries": [
+      "US",
+      "CR",
+      "CO",
+      "BR",
+      "MX",
+      "PA",
+      "EC",
+      "VE",
+      "PE",
+      "BZ",
+      "AR",
+      "CL",
+      "HN",
+      "GT",
+      "NI",
+      "SV",
+      "TT",
+      "PY",
+      "BO",
+      "GY"
+    ],
+    "url": "https://www.gbif.org/species/2481942"
+  }
+}

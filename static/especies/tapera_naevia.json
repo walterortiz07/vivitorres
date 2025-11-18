@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Tapera naevia",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Tapera naevia",
+    "common_name": "Striped Cuckoo",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/6328/medium.jpg"
+    ],
+    "image_local": "/static/especies/tapera_naevia/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/1989"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 5231932,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Cuculiformes",
+    "family": "Cuculidae",
+    "genus": "Tapera",
+    "species": "Tapera naevia",
+    "vernacular_name": "Striped Cuckoo",
+    "countries": [
+      "CO",
+      "BR",
+      "AR",
+      "CR",
+      "VE",
+      "PA",
+      "PE",
+      "EC",
+      "PY",
+      "UY",
+      "BZ",
+      "TT",
+      "GT",
+      "BO",
+      "NI",
+      "MX",
+      "HN",
+      "SV",
+      "GY",
+      "GF"
+    ],
+    "url": "https://www.gbif.org/species/5231932"
+  }
+}

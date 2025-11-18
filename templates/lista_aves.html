@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Aves registradas</h2>
+
+<form class="row g-2 mb-3" method="get">
+  <div class="col-10 col-md-6">
+    <input type="text" name="q" class="form-control"
+           placeholder="Buscar por nombre común, especie, familia u orden"
+           value="{{ q }}">
+  </div>
+  <div class="col-2 col-md-2">
+    <button class="btn btn-primary w-100" type="submit">Buscar</button>
+  </div>
+</form>
+
+<div class="table-responsive">
+<table class="table table-striped table-sm align-middle">
+  <thead>
+    <tr>
+      <th>N</th>
+      <th>Orden</th>
+      <th>Familia</th>
+      <th>Especie</th>
+      <th>Nombre común</th>
+      <th>S</th>
+      <th>B</th>
+      <th>QR</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for ave in aves %}
+    <tr>
+      <td>{{ ave["n"] }}</td>
+      <td>{{ ave["orden"] }}</td>
+      <td>{{ ave["familia"] }}</td>
+      <td><a href="{{ url_for('detalle_ave', item_id=ave['id']) }}">{{ ave["especie"] }}</a></td>
+      <td>{{ ave["nombre_comun"] }}</td>
+      <td>{{ "X" if ave["s"] else "" }}</td>
+      <td>{{ "X" if ave["b"] else "" }}</td>
+      <td>
+        <a href="{{ url_for('detalle_ave', item_id=ave['id']) }}" class="d-block mb-1">Ver ficha</a>
+        <img src="{{ url_for('qr_ave', item_id=ave['id']) }}" alt="QR" width="70">
+        <div class="small text-muted">Click derecho → “Guardar imagen”</div>
+      </td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+</div>
+{% endblock %}

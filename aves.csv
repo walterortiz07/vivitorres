@@ -1,0 +1,84 @@
+n,orden,familia,especie,nombre_comun,s,b,migratoria
+1,Tinamiformes,Tinamidae,Crypturellus tataupa,Tataupá,1,0,0
+2,Gruiformes,Rallidae,Aramides cajaneus,Chiricoe,1,1,0
+3,Gruiformes,Rallidae,Aramides ypecaa,Ypaka'a,1,1,0
+4,Suliformes,Phalacrocoracidae,Nannopterum brasilianum,Mbiguá,1,0,0
+5,Pelecaniformes,Ardeidae,Ardea alba,Garza blanca,1,0,0
+6,Pelecaniformes,Ardeidae,Ardea cocoi,Garza mora,1,0,0
+7,Pelecaniformes,Ardeidae,Butorides striata,Garcita azulada,1,0,0
+8,Pelecaniformes,Ardeidae,Syrigma sibilatrix,Flauta de sol,1,0,0
+9,Pelecaniformes,Threskiornithidae,Phimosus infuscatus,Cuervillo cara pelada,1,0,0
+10,Cathartiformes,Cathartidae,Cathartes aura,Buitre cabeza roja,1,1,0
+11,Cathartiformes,Cathartidae,Coragyps atratus,Buitre cabeza negra,1,1,0
+12,Accipitriformes,Accipitridae,Rupornis magnirostris,Taguató,1,1,0
+13,Accipitriformes,Accipitridae,Busarellus nigricollis,Gavilán de estero,1,0,0
+14,Accipitriformes,Accipitridae,Rostrhamus sociabilis,Caracolero,1,0,0
+15,Falconiformes,Accipitridae,Daptrius chimachima,Chimachima,1,0,0
+16,Falconiformes,Falconidae,Caracara plancus,Carancho,1,1,0
+17,Falconiformes,Falconidae,Falco sparverius,Halconcito colorado,1,0,0
+18,Charadriiformes,Charadriidae,Vanellus chilensis,Tero tero,1,1,0
+19,Charadriiformes,Jacanidae,Jacana jacana,Jacana,1,1,0
+20,Columbiformes,Columbidae,Columbina talpacoti,Tortolita colorada,1,0,0
+21,Columbiformes,Columbidae,Columbina picui,Tortolita picui,1,0,0
+22,Columbiformes,Columbidae,Columba squammata,Tortolita escamada,1,0,0
+23,Columbiformes,Columbidae,Leptotila verreauxi,Yerutí,1,0,0
+24,Columbiformes,Columbidae,Patagioenas picazuro,Picazuró,1,0,0
+25,Psittaciformes,Psittacidae,Myopsitta monachus,Cotorrita,1,1,0
+26,Psittaciformes,Psittacidae,Amazona aestiva,Loro hablador,1,1,0
+27,Psittaciformes,Psittacidae,Aratinga nenday,Nanday,1,1,0
+28,Psittaciformes,Psittacidae,Thectocercus acuticaudatus,Maracaná ceja amarilla,1,0,0
+29,Psittaciformes,Psittacidae,Forpus xanthopterygius,Catí ta viuda,1,0,0
+30,Cuculiformes,Cuculidae,Guira guira,Piririta,1,1,0
+31,Cuculiformes,Cuculidae,Crotophaga ani,Anó,1,0,0
+32,Cuculiformes,Cuculidae,Tapera naevia,Chochí,1,0,0
+33,Cuculiformes,Cuculidae,Coccyzus americanus,Cuclillo alas rojizas,1,0,1
+34,Apodiformes,Trochilidae,Chlorostilbon lucidus,Picaflor verde,1,0,0
+35,Apodiformes,Trochilidae,Hylochelris chyrsura,Picaflor bronceado,1,0,0
+36,Piciformes,Picidae,Colaptes campestris,Carpintero campestre,1,1,0
+37,Piciformes,Picidae,Melanerpes candidus,Carpintero blanco,1,0,0
+38,Piciformes,Picidae,Picumnus cirratus,Carpinterito común,1,0,0
+39,Passeriformes,Furnariidae,Certhiaxis cinnamomeus,Curutié colorado,1,0,0
+40,Passeriformes,Furnariidae,Pachellodomus rube,Espinero grande,1,0,0
+41,Passeriformes,Furnariidae,Furnarius rufus,Hornero,1,1,0
+42,Passeriformes,Furnariidae,Lepidocolaptes angustirostris,Chinchero chico,1,0,0
+43,Passeriformes,Furnariidae,Xiphocolaptes major,Trepador gigante,1,0,0
+44,Passeriformes,Furnariidae,Camptorhamphus trochilirostris,Pica palo común,1,0,0
+45,Passeriformes,Furnariidae,Synallaxis frontalis,Pijui frente gris,1,0,0
+46,Passeriformes,Thamnophilidae,Taraba major,Chororó,1,1,0
+47,Passeriformes,Thamnophilidae,Thamnophilus doliatus,Batará rayado,1,0,0
+48,Passeriformes,Tyrannidae,Pitangus sulphuratus,Pitogüé,1,1,0
+49,Passeriformes,Tyrannidae,Tyrannus melancholicus,Suirirí real,1,1,0
+50,Passeriformes,Tyrannidae,Fluvicola albiventer,Viudita blanca,1,0,0
+51,Passeriformes,Tyrannidae,Xolmis irupero,Viudita,1,0,0
+52,Passeriformes,Tyrannidae,Myiarchus tyrannulus,Burlisto cola castaña,1,0,0
+53,Passeriformes,Tyrannidae,Hemitriccus margaritaceiventer,Mosquero ojiblanco,1,0,0
+54,Passeriformes,Tyrannidae,Pyrocephalus rubinus,Churrinche,1,0,1
+55,Passeriformes,Tyrannidae,Pachyramphus validus,Anambé grande,1,0,0
+56,Passeriformes,Hirundinidae,Progne tapera,Golondrina parda,1,0,0
+57,Passeriformes,Troglodytidae,Camptorhynchus turdinus,Ratona grande,1,0,0
+58,Passeriformes,Troglodytidae,Troglodytes musculus,Ratona,1,0,0
+59,Passeriformes,Mimidae,Mimus saturninus,Calandria,1,1,0
+60,Passeriformes,Turdidae,Turdus rufiventris,Zorzal colorado,1,1,0
+61,Passeriformes,Vireonidae,Cyclarhis gujanensis,Juan chiviro,1,0,0
+62,Passeriformes,Parulidae,Geothlypis velata,Arañero cara negra,1,0,0
+63,Passeriformes,Parulidae,Parula pitiayumi,Pitiayumí,1,0,0
+64,Passeriformes,Thraupidae,Coryphospingus cucullatus,Batara de fuego,1,0,0
+65,Passeriformes,Thraupidae,Embernagra platensis,Coludo verdón,1,0,0
+66,Passeriformes,Thraupidae,Sporophila collaris,Corbatita común,1,0,0
+67,Passeriformes,Thraupidae,Thraupis sayaca,Sayaca,1,1,0
+68,Passeriformes,Thraupidae,Saltator coerulescens,Peipitero gris,1,1,0
+69,Passeriformes,Thraupidae,Sicalis flaveola,Canario paraguayo,1,0,0
+70,Passeriformes,Thraupidae,Sporophila caerulescens,Corbatita común,1,0,0
+71,Passeriformes,Thraupidae,Sporophila plumbea,Capitán,1,0,0
+72,Passeriformes,Thraupidae,Cardinalis phoeniceus,Cardenal,1,0,0
+73,Passeriformes,Fringillidae,Euphonia chlorotica,Vivi,1,0,0
+74,Passeriformes,Icteridae,Molothrus rufoaxillaris,Tordo pico corto,1,0,0
+75,Passeriformes,Icteridae,Agelasticus cyanopus,Varillero negro,1,0,0
+76,Passeriformes,Icteridae,Agelaioides badius,Tordo músico,1,1,0
+77,Passeriformes,Icteridae,Amblyramphus holosericeus,Federal,1,0,0
+78,Passeriformes,Icteridae,Icterus cayanensis,Boyerito,1,0,0
+79,Passeriformes,Icteridae,Molothrus bonariensis,Tordo renegrido,1,1,0
+80,Passeriformes,Polioptilidae,Polioptila dumicola,Tacuarita azul,1,0,0
+81,Passeriformes,Donacobiidae,Donacobius atricapilla,Donacobio,1,0,0
+82,Passeriformes,Passerellidae,Zonotrichia capensis,Bendito sea,1,1,0
+83,Passeriformes,Passeridae,Passer domesticus,Gorrión doméstico,1,0,0

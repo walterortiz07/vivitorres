@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Troglodytes musculus",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Troglodytes musculus",
+    "common_name": "Southern House Wren",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/2074835/medium.jpg"
+    ],
+    "image_local": "/static/especies/troglodytes_musculus/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/1578442"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 8346347,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Troglodytidae",
+    "genus": "Troglodytes",
+    "species": "Troglodytes musculus",
+    "vernacular_name": "Southern House-Wren",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "CR",
+      "CL",
+      "PA",
+      "PE",
+      "VE",
+      "EC",
+      "GT",
+      "BZ",
+      "HN",
+      "UY",
+      "MX",
+      "TT",
+      "BO",
+      "PY",
+      "NI",
+      "SV",
+      "GY"
+    ],
+    "url": "https://www.gbif.org/species/8346347"
+  }
+}

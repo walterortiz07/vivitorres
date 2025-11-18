@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Saltator coerulescens",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Saltator coerulescens",
+    "common_name": "Bluish-gray Saltator",
+    "summary": null,
+    "images_remote": [
+      "https://static.inaturalist.org/photos/740218/medium.jpg"
+    ],
+    "image_local": "/static/especies/saltator_coerulescens/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/9850"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 9819034,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Thraupidae",
+    "genus": "Saltator",
+    "species": "Saltator coerulescens",
+    "vernacular_name": "Grayish Saltator",
+    "countries": [
+      "AR",
+      "BR",
+      "PY",
+      "PE",
+      "EC",
+      "CO",
+      "BO",
+      "UY",
+      "MX",
+      "BZ",
+      "VE",
+      "CR",
+      "GF",
+      "SV",
+      "GT",
+      "GY",
+      "HN",
+      "TT",
+      "NI",
+      "SR"
+    ],
+    "url": "https://www.gbif.org/species/9819034"
+  }
+}

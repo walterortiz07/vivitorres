@@ -1,0 +1,79 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="container py-4">
+
+  <h1 class="text-center mb-4">🌿 Catálogo de Biodiversidad de Nueva Asunción</h1>
+
+  <p class="text-center text-muted">
+    Sistema funcionando 100% OFFLINE — Aves y plantas con imágenes y taxonomía local.
+  </p>
+
+  <!-- MENSAJE DE ORIGEN -->
+  <p class="text-center small text-muted mb-4">
+    Esta página fue construida a partir del documento:
+    <br>
+    <a href="{{ url_for('static', filename='Nueva_Asu_octubre1.pdf') }}"
+       target="_blank"
+       class="fw-bold">
+      “Nueva Asunción – Octubre”
+    </a>
+  </p>
+
+  <!-- BOTÓN PARA VER PDF -->
+  <div class="text-center mb-4">
+    <a href="{{ url_for('static', filename='Nueva_Asu_octubre1.pdf') }}"
+       class="btn btn-outline-primary btn-lg"
+       target="_blank">
+      📄 Ver documento PDF original
+    </a>
+  </div>
+
+  <div class="row mt-4">
+
+    <div class="col-md-6 mb-3">
+      <a href="/galeria/aves" class="text-decoration-none">
+        <div class="card shadow-sm border-success">
+          <div class="card-body text-center">
+            <h3>🐦 Galería de Aves</h3>
+            <p>Ver todas las aves con sus imágenes y datos.</p>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="col-md-6 mb-3">
+      <a href="/galeria/plantas" class="text-decoration-none">
+        <div class="card shadow-sm border-success">
+          <div class="card-body text-center">
+            <h3>🌱 Galería de Plantas</h3>
+            <p>Explorar todo el registro botánico disponible.</p>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="col-md-6 mb-3">
+      <a href="/aves" class="text-decoration-none">
+        <div class="card shadow-sm">
+          <div class="card-body text-center">
+            <h4>🔍 Listado de Aves</h4>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="col-md-6 mb-3">
+      <a href="/plantas" class="text-decoration-none">
+        <div class="card shadow-sm">
+          <div class="card-body text-center">
+            <h4>🔍 Listado de Plantas</h4>
+          </div>
+        </div>
+      </a>
+    </div>
+
+  </div>
+</div>
+
+{% endblock %}

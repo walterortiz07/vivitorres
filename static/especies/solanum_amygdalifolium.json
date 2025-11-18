@@ -1,0 +1,42 @@
+{
+  "scientific_name": "Solanum amygdalifolium",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Solanum amygdalifolium",
+    "common_name": null,
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/64367156/medium.jpeg"
+    ],
+    "image_local": "/static/especies/solanum_amygdalifolium/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/859285"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2929794,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Solanales",
+    "family": "Solanaceae",
+    "genus": "Solanum",
+    "species": "Solanum amygdalifolium",
+    "vernacular_name": null,
+    "countries": [
+      "AR",
+      "PY",
+      "BR",
+      "UY",
+      "BO",
+      "PR",
+      "CL",
+      "CH",
+      "ES",
+      "MX",
+      "CU",
+      "PA",
+      "PG"
+    ],
+    "url": "https://www.gbif.org/species/2929794"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "scientific_name": "Andropogon lateralis",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Anatherum laterale",
+    "common_name": null,
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/65229489/medium.jpeg"
+    ],
+    "image_local": "/static/especies/andropogon_lateralis/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/1617162"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 4146132,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Liliopsida",
+    "order": "Poales",
+    "family": "Poaceae",
+    "genus": "Andropogon",
+    "species": "Andropogon lateralis",
+    "vernacular_name": null,
+    "countries": [
+      "BR",
+      "AR",
+      "PY",
+      "BO",
+      "UY",
+      "CO",
+      "CU",
+      "PE",
+      "ZZ",
+      "AF",
+      "EC",
+      "US",
+      "AU",
+      "BZ",
+      "HT",
+      "MG",
+      "NI",
+      "PA"
+    ],
+    "url": "https://www.gbif.org/species/4146132"
+  }
+}

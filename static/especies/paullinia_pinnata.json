@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Paullinia pinnata",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Paullinia pinnata",
+    "common_name": "bread and cheese",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/2220418/medium.jpeg"
+    ],
+    "image_local": "/static/especies/paullinia_pinnata/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/152139"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 3189950,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Sapindaceae",
+    "genus": "Paullinia",
+    "species": "Paullinia pinnata",
+    "vernacular_name": "Bread And Cheese",
+    "countries": [
+      "BJ",
+      "BR",
+      "MX",
+      "CD",
+      "CM",
+      "PY",
+      "PR",
+      "CI",
+      "TZ",
+      "NG",
+      "GN",
+      "BF",
+      "GA",
+      "GH",
+      "MG",
+      "GF",
+      "ET",
+      "SR",
+      "TG",
+      "CR"
+    ],
+    "url": "https://www.gbif.org/species/3189950"
+  }
+}

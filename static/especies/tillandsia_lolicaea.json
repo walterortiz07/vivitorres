@@ -1,0 +1,24 @@
+{
+  "scientific_name": "Tillandsia lolicaea",
+  "inat": {},
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2695286,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Liliopsida",
+    "order": "Poales",
+    "family": "Bromeliaceae",
+    "genus": "Tillandsia",
+    "species": "Tillandsia loliacea",
+    "vernacular_name": null,
+    "countries": [
+      "BR",
+      "PY",
+      "BO",
+      "AR",
+      "SE"
+    ],
+    "url": "https://www.gbif.org/species/2695286"
+  }
+}

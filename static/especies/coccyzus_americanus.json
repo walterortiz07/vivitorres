@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Coccyzus americanus",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Coccyzus americanus",
+    "common_name": "Yellow-billed Cuckoo",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/12581532/medium.jpg"
+    ],
+    "image_local": "/static/especies/coccyzus_americanus/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/1965"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2496287,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Cuculiformes",
+    "family": "Cuculidae",
+    "genus": "Coccyzus",
+    "species": "Coccyzus americanus",
+    "vernacular_name": "Yellow-billed Cuckoo",
+    "countries": [
+      "US",
+      "CA",
+      "CO",
+      "MX",
+      "PA",
+      "CR",
+      "CU",
+      "BZ",
+      "PR",
+      "BM",
+      "HN",
+      "VE",
+      "BS",
+      "GP",
+      "GT",
+      "KY",
+      "BR",
+      "AW",
+      "AR",
+      "DO"
+    ],
+    "url": "https://www.gbif.org/species/2496287"
+  }
+}

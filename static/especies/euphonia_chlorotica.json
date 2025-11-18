@@ -1,0 +1,44 @@
+{
+  "scientific_name": "Euphonia chlorotica",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Euphonia chlorotica",
+    "common_name": "Purple-throated Euphonia",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/176773163/medium.jpg"
+    ],
+    "image_local": "/static/especies/euphonia_chlorotica/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/9292"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2487964,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Fringillidae",
+    "genus": "Euphonia",
+    "species": "Euphonia chlorotica",
+    "vernacular_name": "Purple-throated Euphonia",
+    "countries": [
+      "BR",
+      "AR",
+      "PE",
+      "CO",
+      "PY",
+      "BO",
+      "VE",
+      "UY",
+      "EC",
+      "GY",
+      "GF",
+      "SR",
+      "ZZ",
+      "GR",
+      "TT"
+    ],
+    "url": "https://www.gbif.org/species/2487964"
+  }
+}

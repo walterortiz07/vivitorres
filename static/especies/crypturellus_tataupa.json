@@ -1,0 +1,37 @@
+{
+  "scientific_name": "Crypturellus tataupa",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Crypturellus tataupa",
+    "common_name": "Tataupá Tinamou",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/173079358/medium.jpeg"
+    ],
+    "image_local": "/static/especies/crypturellus_tataupa/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/20587"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2477522,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Tinamiformes",
+    "family": "Tinamidae",
+    "genus": "Crypturellus",
+    "species": "Crypturellus tataupa",
+    "vernacular_name": "Tataupa Tinamou",
+    "countries": [
+      "BR",
+      "AR",
+      "PY",
+      "PE",
+      "BO",
+      "EC",
+      "GF",
+      "US"
+    ],
+    "url": "https://www.gbif.org/species/2477522"
+  }
+}

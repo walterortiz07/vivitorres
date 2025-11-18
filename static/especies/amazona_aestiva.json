@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Amazona aestiva",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Amazona aestiva",
+    "common_name": "Turquoise-fronted Amazon",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/167963315/medium.jpg"
+    ],
+    "image_local": "/static/especies/amazona_aestiva/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/18978"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2479662,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Psittaciformes",
+    "family": "Psittacidae",
+    "genus": "Amazona",
+    "species": "Amazona aestiva",
+    "vernacular_name": "Blue-fronted Parrot / Turquoise-fronted Amazon",
+    "countries": [
+      "BR",
+      "AR",
+      "PY",
+      "BO",
+      "PR",
+      "US",
+      "ZZ",
+      "UY",
+      "IT",
+      "ES",
+      "DE",
+      "MX",
+      "CL",
+      "GB",
+      "NL",
+      "GR",
+      "SR",
+      "BE",
+      "CA",
+      "DK"
+    ],
+    "url": "https://www.gbif.org/species/2479662"
+  }
+}

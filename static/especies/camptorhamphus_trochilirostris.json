@@ -1,0 +1,20 @@
+{
+  "scientific_name": "Camptorhamphus trochilirostris",
+  "inat": {},
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 1236480,
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Coleoptera",
+    "family": "Curculionidae",
+    "genus": "Camptorhamphus",
+    "species": null,
+    "vernacular_name": null,
+    "countries": [
+      "AU"
+    ],
+    "url": "https://www.gbif.org/species/1236480"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "scientific_name": "Sapium hematostilum",
+  "inat": {},
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 5379830,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Malpighiales",
+    "family": "Euphorbiaceae",
+    "genus": "Sapium",
+    "species": null,
+    "vernacular_name": "Milktree",
+    "countries": [
+      "BR",
+      "CO",
+      "MX",
+      "AR",
+      "EC",
+      "CR",
+      "PE",
+      "BO",
+      "PY",
+      "CN",
+      "VE",
+      "CU",
+      "PA",
+      "NI",
+      "GY",
+      "UY",
+      "PR",
+      "GT",
+      "GF",
+      "SV"
+    ],
+    "url": "https://www.gbif.org/species/5379830"
+  }
+}

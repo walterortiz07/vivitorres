@@ -1,0 +1,44 @@
+{
+  "scientific_name": "Amblyramphus holosericeus",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Amblyramphus holosericeus",
+    "common_name": "Scarlet-headed Blackbird",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/236820452/medium.jpg"
+    ],
+    "image_local": "/static/especies/amblyramphus_holosericeus/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/10694"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2484479,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Icteridae",
+    "genus": "Amblyramphus",
+    "species": "Amblyramphus holosericeus",
+    "vernacular_name": "Scarlet-headed Blackbird",
+    "countries": [
+      "AR",
+      "BR",
+      "PY",
+      "UY",
+      "BO",
+      "DE",
+      "NL",
+      "PE",
+      "ZZ",
+      "DK",
+      "CL",
+      "GT",
+      "PA",
+      "CO",
+      "GB"
+    ],
+    "url": "https://www.gbif.org/species/2484479"
+  }
+}

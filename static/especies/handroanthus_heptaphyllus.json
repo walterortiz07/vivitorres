@@ -1,0 +1,46 @@
+{
+  "scientific_name": "Handroanthus heptaphyllus",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Handroanthus heptaphyllus",
+    "common_name": null,
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/89439081/medium.jpeg"
+    ],
+    "image_local": "/static/especies/handroanthus_heptaphyllus/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/808333"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 4092253,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Bignoniaceae",
+    "genus": "Handroanthus",
+    "species": "Handroanthus heptaphyllus",
+    "vernacular_name": null,
+    "countries": [
+      "BR",
+      "AR",
+      "PY",
+      "BO",
+      "US",
+      "ZA",
+      "JM",
+      "UY",
+      "ZW",
+      "AU",
+      "CD",
+      "ES",
+      "HK",
+      "MO",
+      "PE",
+      "PH",
+      "ZZ"
+    ],
+    "url": "https://www.gbif.org/species/4092253"
+  }
+}

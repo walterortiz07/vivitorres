@@ -1,0 +1,146 @@
+tipo,especie,nombre_comun,resumen,reino,filo,clase,orden,familia,genero,paises,imagen_local
+ave,Crypturellus tataupa,Tataupá,,Animalia,Chordata,Aves,Tinamiformes,Tinamidae,Crypturellus,"BR, AR, PY, PE, BO, EC, GF, US",/static/especies/crypturellus_tataupa/image.jpg
+ave,Aramides cajaneus,Chiricoe,,Animalia,Chordata,Aves,Gruiformes,Rallidae,Aramides,"CO, BR, CR, AR, PA, PE, VE, UY, BO, EC, PY, TT, GY, MX, GF, SR, GT, HN, BZ, NI",/static/especies/aramides_cajaneus/image.jpg
+ave,Aramides ypecaa,Ypaka'a,,Animalia,Chordata,Aves,Gruiformes,Rallidae,Aramides,"AR, UY, BR, PY, BO, US, CA, ES, NL, DE, GB, ZZ",
+ave,Nannopterum brasilianum,Mbiguá,,Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Phalacrocorax,"US, CL, AR, MX, BR, CO, CR, PE, PA, BZ, UY, EC, VE, GT, HN, PY, CU, NI, BO, SV",/static/especies/nannopterum_brasilianum/image.jpg
+ave,Ardea alba,Garza blanca,,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ardea,"US, NL, AU, FR, TW, IN, CA, MX, DE, SE, BE, DK, BR, CO, ES, CR, AR, GB, IT, CL",/static/especies/ardea_alba/image.jpg
+ave,Ardea cocoi,Garza mora,,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ardea,"BR, AR, CO, CL, PE, EC, UY, PA, PY, BO, VE, GY, SR, TT, GF, FK, CW, ZZ, NG, VC",/static/especies/ardea_cocoi/image.jpg
+ave,Butorides striata,Garcita azulada,,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Butorides,"BR, CO, AU, ZA, IN, EC, PE, AR, TH, TW, SG, MY, VE, PA, PH, ID, KE, TT, AE, PY",/static/especies/butorides_striata/image.jpg
+ave,Syrigma sibilatrix,Flauta de sol,,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Syrigma,"AR, BR, CO, UY, PY, VE, BO, PA, EC, CW, AW, CL, DE, BQ, PE, TT, BZ, ZZ, CR, MX",/static/especies/syrigma_sibilatrix/image.jpg
+ave,Phimosus infuscatus,Cuervillo cara pelada,,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Phimosus,"CO, BR, AR, VE, UY, PY, BO, EC, PA, PE, GF, US, CL, ZZ, CR, NG",/static/especies/phimosus_infuscatus/image.jpg
+ave,Cathartes aura,Buitre cabeza roja,,Animalia,Chordata,Aves,Accipitriformes,Cathartidae,Cathartes,"US, CA, MX, CR, CO, PA, CL, BR, BZ, EC, PE, AR, HN, CU, GT, SV, VE, PR, NI, JM",/static/especies/cathartes_aura/image.jpg
+ave,Coragyps atratus,Buitre cabeza negra,,Animalia,Chordata,Aves,Accipitriformes,Cathartidae,Coragyps,"US, CR, CO, BR, MX, PA, EC, VE, PE, BZ, AR, CL, HN, GT, NI, SV, TT, PY, BO, GY",/static/especies/coragyps_atratus/image.jpg
+ave,Rupornis magnirostris,Taguató,,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Rupornis,"CO, BR, CR, AR, MX, EC, BZ, PE, PA, VE, GT, HN, UY, BO, PY, NI, SV, GY, US, SR",/static/especies/rupornis_magnirostris/image.jpg
+ave,Busarellus nigricollis,Gavilán de estero,,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Busarellus,"BR, CO, PE, CR, AR, BZ, VE, BO, MX, GY, PY, PA, SR, GT, GF, NI, EC, HN, SV, UY",/static/especies/busarellus_nigricollis/image.jpg
+ave,Rostrhamus sociabilis,Caracolero,,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Rostrhamus,"US, AR, BR, CO, MX, BZ, EC, PA, CR, PY, HN, PE, UY, GY, GT, CU, BO, SR, VE, SV",/static/especies/rostrhamus_sociabilis/image.jpg
+ave,Daptrius chimachima,Chimachima,,Animalia,Chordata,Aves,Falconiformes,Falconidae,Daptrius,"AR, CL, CO, BR, CR, PA, PE, EC, VE, UY, BO, PY, TT, GY, FK, SR, US, GF, NI, AW",/static/especies/daptrius_chimachima/image.jpg
+ave,Caracara plancus,Carancho,,Animalia,Chordata,Aves,Falconiformes,Falconidae,Caracara,"US, AR, BR, CR, MX, CO, CL, UY, VE, PA, HN, PY, BO, CU, CW, NI, PE, GT, BQ, EC",/static/especies/caracara_plancus/image.jpg
+ave,Falco sparverius,Halconcito colorado,,Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco,"US, CA, MX, AR, CL, CO, PE, BR, PR, CU, EC, BS, UY, DO, JM, HN, PA, BZ, VE, BO",/static/especies/falco_sparverius/image.jpg
+ave,Vanellus chilensis,Tero tero,,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Vanellus,"AR, BR, CL, CO, CR, PA, UY, VE, PY, EC, BO, TT, PE, GY, CW, AW, NI, BQ, US, HN",/static/especies/vanellus_chilensis/image.jpg
+ave,Jacana jacana,Jacana,,Animalia,Chordata,Aves,Charadriiformes,Jacanidae,Jacana,"BR, CO, AR, PA, PE, VE, PY, EC, UY, BO, TT, GY, SR, GF, CR, CW, GD, BQ, US, CL",/static/especies/jacana_jacana/image.jpg
+ave,Columbina talpacoti,Tortolita colorada,,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columbina,"BR, CO, CR, MX, PA, BZ, VE, HN, SV, NI, TT, GT, AR, PE, PY, US, EC, BO, GY, SR",/static/especies/columbina_talpacoti/image.jpg
+ave,Columbina picui,Tortolita picui,,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columbina,"AR, CL, BR, UY, PY, BO, PE, US, ZZ, TZ",/static/especies/columbina_picui/image.jpg
+ave,Columba squammata,Tortolita escamada,,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columbina,,
+ave,Leptotila verreauxi,Yerutí,,Animalia,Chordata,Aves,Columbiformes,Columbidae,Leptotila,"CR, CO, US, BR, MX, AR, PA, BZ, GT, EC, VE, PE, HN, PY, UY, NI, TT, SV, BO, CW",/static/especies/leptotila_verreauxi/image.jpg
+ave,Patagioenas picazuro,Picazuró,,Animalia,Chordata,Aves,Columbiformes,Columbidae,Patagioenas,"BR, AR, UY, PY, BO, CL, ZZ, PE",/static/especies/patagioenas_picazuro/image.jpg
+ave,Myopsitta monachus,Cotorrita,,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Myiopsitta,FI,/static/especies/myopsitta_monachus/image.jpg
+ave,Amazona aestiva,Loro hablador,,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Amazona,"BR, AR, PY, BO, PR, US, ZZ, UY, IT, ES, DE, MX, CL, GB, NL, GR, SR, BE, CA, DK",/static/especies/amazona_aestiva/image.jpg
+ave,Aratinga nenday,Nanday,,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Nandayus,"US, AR, BR, PY, ES, BO, AE, UY, MX, IL, BS, PR, IT, BH, ZZ, GP, BE, GB, NL, AU",/static/especies/aratinga_nenday/image.jpg
+ave,Thectocercus acuticaudatus,Maracaná ceja amarilla,,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Aratinga,"AR, US, BR, PT, BO, CO, PY, VE, CW, ES, PE, PR, CL, IT, ZZ, GB, CA, CH, FR, MX",/static/especies/thectocercus_acuticaudatus/image.jpg
+ave,Forpus xanthopterygius,Catí ta viuda,,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Forpus,"BR, CO, PY, BO, AR, PE, EC, ZZ, MX, GR, JM, VE",/static/especies/forpus_xanthopterygius/image.jpg
+ave,Guira guira,Piririta,,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Guira,"AR, BR, UY, PY, BO, CL, DE, ZZ, PE, CW, GR, AT, DK, ES, HT, MX, US",/static/especies/guira_guira/image.jpg
+ave,Crotophaga ani,Anó,,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Crotophaga,"CO, BR, EC, PA, PR, PE, CU, AR, VE, CR, BS, TT, PY, BO, DO, KY, JM, GY, US, VI",/static/especies/crotophaga_ani/image.jpg
+ave,Tapera naevia,Chochí,,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Tapera,"CO, BR, AR, CR, VE, PA, PE, EC, PY, UY, BZ, TT, GT, BO, NI, MX, HN, SV, GY, GF",/static/especies/tapera_naevia/image.jpg
+ave,Coccyzus americanus,Cuclillo alas rojizas,,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Coccyzus,"US, CA, CO, MX, PA, CR, CU, BZ, PR, BM, HN, VE, BS, GP, GT, KY, BR, AW, AR, DO",/static/especies/coccyzus_americanus/image.jpg
+ave,Chlorostilbon lucidus,Picaflor verde,,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Chlorostilbon,"AR, BR, UY, PY, BO, CL, ZZ, US, EC, PE, VE",/static/especies/chlorostilbon_lucidus/image.jpg
+ave,Hylochelris chyrsura,Picaflor bronceado,,,,,,,,,
+ave,Colaptes campestris,Carpintero campestre,,Animalia,Chordata,Aves,Piciformes,Picidae,Colaptes,"BR, AR, UY, PY, BO, SR, ZZ, PE, CO, MX",/static/especies/colaptes_campestris/image.jpg
+ave,Melanerpes candidus,Carpintero blanco,,Animalia,Chordata,Aves,Piciformes,Picidae,Melanerpes,"BR, AR, UY, PY, BO, SR, GF, GY, PE, DE, DM, MX, ZZ",/static/especies/melanerpes_candidus/image.jpg
+ave,Picumnus cirratus,Carpinterito común,,Animalia,Chordata,Aves,Piciformes,Picidae,Picumnus,"BR, AR, PY, UY, BO, GY, GF, PE, ZZ, GR, PA",/static/especies/picumnus_cirratus/image.jpg
+ave,Certhiaxis cinnamomeus,Curutié colorado,,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Certhiaxis,"BR, AR, CO, PY, VE, TT, GY, BO, SR, UY, GF, PE",/static/especies/certhiaxis_cinnamomeus/image.jpg
+ave,Pachellodomus rube,Espinero grande,,,,,,,,,
+ave,Furnarius rufus,Hornero,,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Furnarius,"AR, BR, UY, PY, BO, ZZ, DE, CL",/static/especies/furnarius_rufus/image.jpg
+ave,Lepidocolaptes angustirostris,Chinchero chico,,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Lepidocolaptes,"AR, BR, PY, UY, BO, SR, ZZ",/static/especies/lepidocolaptes_angustirostris/image.jpg
+ave,Xiphocolaptes major,Trepador gigante,,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Xiphocolaptes,"AR, BR, PY, BO, EC",/static/especies/xiphocolaptes_major/image.jpg
+ave,Camptorhamphus trochilirostris,Pica palo común,,Animalia,Arthropoda,Insecta,Coleoptera,Curculionidae,Camptorhamphus,AU,
+ave,Synallaxis frontalis,Pijui frente gris,,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Synallaxis,"AR, BR, PY, UY, BO, VE, EC, PE, CO",/static/especies/synallaxis_frontalis/image.jpg
+ave,Taraba major,Chororó,,Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Taraba,"BR, AR, CO, CR, EC, PE, PA, BZ, PY, BO, VE, TT, GT, MX, HN, SR, NI, GY, GF, ZZ",/static/especies/taraba_major/image.jpg
+ave,Thamnophilus doliatus,Batará rayado,,Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Thamnophilus,"CR, BR, CO, BZ, PA, VE, MX, GT, TT, PE, HN, PY, NI, AR, BO, GF, GY, SV, SR, EC",/static/especies/thamnophilus_doliatus/image.jpg
+ave,Pitangus sulphuratus,Pitogüé,,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Pitangus,"BR, CR, US, AR, MX, CO, BZ, VE, PA, UY, HN, GT, NI, PE, PY, BM, SV, TT, EC, BO",/static/especies/pitangus_sulphuratus/image.jpg
+ave,Tyrannus melancholicus,Suirirí real,,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus,"CO, CR, BR, MX, PA, EC, US, VE, AR, PE, BZ, HN, NI, GT, SV, TT, UY, PY, BO, GY",/static/especies/tyrannus_melancholicus/image.jpg
+ave,Fluvicola albiventer,Viudita blanca,,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Fluvicola,"BR, AR, PY, BO, PE, UY",/static/especies/fluvicola_albiventer/image.jpg
+ave,Xolmis irupero,Viudita,,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Xolmis,"AR, UY, BR, PY, BO, US, ZZ, CO",/static/especies/xolmis_irupero/image.jpg
+ave,Myiarchus tyrannulus,Burlisto cola castaña,,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiarchus,"US, MX, BR, BZ, CR, CO, GT, AR, HN, VE, BQ, NI, TT, BO, CW, PY, SV, PE, AW, GY",/static/especies/myiarchus_tyrannulus/image.jpg
+ave,Hemitriccus margaritaceiventer,Mosquero ojiblanco,,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Hemitriccus,"AR, BR, PY, CO, BO, VE, PE, UY, GY, AT",/static/especies/hemitriccus_margaritaceiventer/image.jpg
+ave,Pyrocephalus rubinus,Churrinche,,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Pyrocephalus,"US, MX, CO, PE, AR, BZ, EC, BR, UY, VE, CL, BO, GT, PY, GY, CA, HN, NI, PA, ZZ",/static/especies/pyrocephalus_rubinus/image.jpg
+ave,Pachyramphus validus,Anambé grande,,Animalia,Chordata,Aves,Passeriformes,Cotingidae,Pachyramphus,"BR, AR, PY, PE, BO, UY, ZZ",/static/especies/pachyramphus_validus/image.jpg
+ave,Progne tapera,Golondrina parda,,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Progne,"AR, BR, UY, CO, PE, PY, EC, VE, BO, GY, GF, PA, SR, US, AW, CL, CW, CR, BQ, GP",/static/especies/progne_tapera/image.jpg
+ave,Camptorhynchus turdinus,Ratona grande,,Animalia,Arthropoda,Insecta,Coleoptera,Curculionidae,Camptorhynchus,,
+ave,Troglodytes musculus,Ratona,,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Troglodytes,"BR, CO, AR, CR, CL, PA, PE, VE, EC, GT, BZ, HN, UY, MX, TT, BO, PY, NI, SV, GY",/static/especies/troglodytes_musculus/image.jpg
+ave,Mimus saturninus,Calandria,,Animalia,Chordata,Aves,Passeriformes,Mimidae,Mimus,"AR, BR, UY, PY, BO, SR, ZZ, CL",/static/especies/mimus_saturninus/image.jpg
+ave,Turdus rufiventris,Zorzal colorado,,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus,"BR, AR, UY, PY, BO, PE, ZZ, TW, VE",/static/especies/turdus_rufiventris/image.jpg
+ave,Cyclarhis gujanensis,Juan chiviro,,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Cyclarhis,"BR, AR, CO, MX, GT, CR, VE, HN, EC, PY, UY, PE, PA, BZ, TT, SV, NI, BO, GY, GF",/static/especies/cyclarhis_gujanensis/image.jpg
+ave,Geothlypis velata,Arañero cara negra,,Animalia,Chordata,Aves,Passeriformes,Parulidae,Geothlypis,"BR, AR, UY, PY, BO, PE, CL, ZZ, GF, MX, CO, NI",/static/especies/geothlypis_velata/image.jpg
+ave,Parula pitiayumi,Pitiayumí,,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,"CO, MX, AR, BR, EC, US, CR, BO, PY, UY, GF, HN, PA, VE, PE, GY, ZZ, BZ, TT, SR",/static/especies/parula_pitiayumi/image.jpg
+ave,Coryphospingus cucullatus,Batara de fuego,,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Coryphospingus,"AR, BR, PY, EC, BO, PE, UY, CO, ZZ, GY, GF, US, NL, SR, CH, CA",/static/especies/coryphospingus_cucullatus/image.jpg
+ave,Embernagra platensis,Coludo verdón,,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Embernagra,"AR, UY, BR, PY, BO, ZZ, DK, MX, PE",/static/especies/embernagra_platensis/image.jpg
+ave,Sporophila collaris,Corbatita común,,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,"AR, BR, PY, BO, UY, DK, VE, EC, ZZ",/static/especies/sporophila_collaris/image.jpg
+ave,Thraupis sayaca,Sayaca,,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Thraupis,"BR, AR, PY, BO, UY, VE, CO, CL, PE, US, MX, DK, ZZ, DE",/static/especies/thraupis_sayaca/image.jpg
+ave,Saltator coerulescens,Peipitero gris,,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Saltator,"AR, BR, PY, PE, EC, CO, BO, UY, MX, BZ, VE, CR, GF, SV, GT, GY, HN, TT, NI, SR",/static/especies/saltator_coerulescens/image.jpg
+ave,Sicalis flaveola,Canario paraguayo,,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sicalis,"BR, CO, AR, VE, US, EC, PE, UY, PY, PA, BO, CW, BQ, PR, TT, CL, JM, GY, AW, ZZ",/static/especies/sicalis_flaveola/image.jpg
+ave,Sporophila caerulescens,Corbatita común,,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,"BR, AR, PY, UY, BO, PE, CO, ZZ, FK, GR, CL, GY, KM, PA",/static/especies/sporophila_caerulescens/image.jpg
+ave,Sporophila plumbea,Capitán,,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,"BR, GY, CO, VE, PY, BO, GF, SR, PE, AR, ZZ",/static/especies/sporophila_plumbea/image.jpg
+ave,Cardinalis phoeniceus,Cardenal,,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Cardinalis,"CO, VE, ZZ, TT, MX, HN",/static/especies/cardinalis_phoeniceus/image.jpg
+ave,Euphonia chlorotica,Vivi,,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Euphonia,"BR, AR, PE, CO, PY, BO, VE, UY, EC, GY, GF, SR, ZZ, GR, TT",/static/especies/euphonia_chlorotica/image.jpg
+ave,Molothrus rufoaxillaris,Tordo pico corto,,Animalia,Chordata,Aves,Passeriformes,Icteridae,Molothrus,"AR, BR, UY, PY, CL, BO, DE",/static/especies/molothrus_rufoaxillaris/image.jpg
+ave,Agelasticus cyanopus,Varillero negro,,Animalia,Chordata,Aves,Passeriformes,Icteridae,Agelasticus,"AR, BR, PY, BO, UY, GF, ZZ, PE",/static/especies/agelasticus_cyanopus/image.jpg
+ave,Agelaioides badius,Tordo músico,,Animalia,Chordata,Aves,Passeriformes,Icteridae,Agelaioides,"AR, BR, UY, BO, PY, ZZ, CL, US",/static/especies/agelaioides_badius/image.jpg
+ave,Amblyramphus holosericeus,Federal,,Animalia,Chordata,Aves,Passeriformes,Icteridae,Amblyramphus,"AR, BR, PY, UY, BO, DE, NL, PE, ZZ, DK, CL, GT, PA, CO, GB",/static/especies/amblyramphus_holosericeus/image.jpg
+ave,Icterus cayanensis,Boyerito,,Animalia,Chordata,Aves,Passeriformes,Icteridae,Icterus,"AR, BR, PY, UY, CO, PE, BO, EC, GY, VE, GF, SR, TT, ZZ, FK, US, CL, DE, FR, PR",/static/especies/icterus_cayanensis/image.jpg
+ave,Molothrus bonariensis,Tordo renegrido,,Animalia,Chordata,Aves,Passeriformes,Icteridae,Molothrus,"AR, CO, BR, CL, EC, UY, PR, PE, VE, PA, PY, CR, TT, US, BO, CU, AW, BB, GY, CW",/static/especies/molothrus_bonariensis/image.jpg
+ave,Polioptila dumicola,Tacuarita azul,,Animalia,Chordata,Aves,Passeriformes,Polioptilidae,Polioptila,"AR, BR, UY, PY, BO, ZZ, CL, GF",/static/especies/polioptila_dumicola/image.jpg
+ave,Donacobius atricapilla,Donacobio,,Animalia,Chordata,Aves,Passeriformes,Donacobiidae,Donacobius,"BR, PE, EC, CO, AR, VE, PY, BO, PA, GY, SR, GF, ZZ, GR, DE, FR, US",/static/especies/donacobius_atricapilla/image.jpg
+ave,Zonotrichia capensis,Bendito sea,,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Zonotrichia,"AR, CO, CL, BR, CR, EC, PE, UY, GT, VE, BO, PA, MX, PY, CW, HN, SV, DO, ZZ, GF",/static/especies/zonotrichia_capensis/image.jpg
+ave,Passer domesticus,Gorrión doméstico,,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer,"US, CA, ES, FR, GB, NL, AU, DE, IN, PT, SE, NO, NZ, ZA, MX, FI, BR, AR, BE, DK",/static/especies/passer_domesticus/image.jpg
+planta,Gomphrena celosioides,Perdurilla,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,Gomphrena,"AU, BR, TW, ZA, PY, AR, BJ, IN, US, CD, TH, NG, TZ, BO, KE, ZW, JP, RE, UY, LK",/static/especies/gomphrena_celosioides/image.jpg
+planta,Pfaffia glomerata,,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,Pfaffia,"BR, AR, PY, BO, UY, GF, GY, CO, PE, SR, MX, US, ZZ",/static/especies/pfaffia_glomerata/image.jpg
+planta,Annona emarginata,,,Plantae,Tracheophyta,Magnoliopsida,Magnoliales,Annonaceae,Annona,"BR, PY, AR, BO, ZZ, US, SR, UY, GY, CO, VE",/static/especies/annona_emarginata/image.jpg
+planta,Eyngium ebracteatum,,,,,,,,,,
+planta,Copernicia alba,karanday,,Plantae,Tracheophyta,Liliopsida,Arecales,Arecaceae,Copernicia,"AR, PY, BO, BR, US, BE, CN, CO, ZA, ZZ",/static/especies/copernicia_alba/image.jpg
+planta,Acrocomia aculeata,mbokaja,,Plantae,Tracheophyta,Liliopsida,Arecales,Arecaceae,Acrocomia,"CO, MX, BR, PR, CR, GF, US, PA, BO, VE, JM, PY, AR, HN, NI, DO, TT, GT, MQ, CU",/static/especies/acrocomia_aculeata/image.jpg
+planta,Cichorium intybus,Achicoria,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cichorium,"FR, US, NL, DE, RU, CA, ES, SE, GB, CH, PL, DK, IT, AT, BE, UA, PT, AU, CZ, NO",/static/especies/cichorium_intybus/image.jpg
+planta,Vernonthahura brasilensis,,,,,,,,,,
+planta,Sphagneticola brachycarpa,,,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Sphagneticola,"PY, BR, AR, BO, CO, VE, GY, PE, GF, EC, RU, ZZ",/static/especies/sphagneticola_brachycarpa/image.jpg
+planta,Handroanthus heptaphyllus,Tajy pytã,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Bignoniaceae,Handroanthus,"BR, AR, PY, BO, US, ZA, JM, UY, ZW, AU, CD, ES, HK, MO, PE, PH, ZZ",/static/especies/handroanthus_heptaphyllus/image.jpg
+planta,Dolichandra aff. unguis-cati,Uña de gato,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Bignoniaceae,Dolichandra,"AU, BR, US, MX, AR, CO, PY, ZA, PR, BO, JM, CR, VE, UY, PE, PT, VI, DO, NI, PA",
+planta,Cordia americana,Guajayví,,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Cordiaceae,Cordia,"BR, PY, AR, BO, ZZ, UY, PA, BE, CO",/static/especies/cordia_americana/image.jpg
+planta,Tillandsia lolicaea,,,Plantae,Tracheophyta,Liliopsida,Poales,Bromeliaceae,Tillandsia,"BR, PY, BO, AR, SE",
+planta,Rhipsalis baccifera,,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Rhipsalis,"MX, MG, BR, CO, RE, CR, ZA, GA, NI, BO, VE, CU, PR, CD, DO, PY, JM, PE, GF, AR",/static/especies/rhipsalis_baccifera/image.jpg
+planta,Celtis erengibiana,,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Cannabaceae,Celtis,"US, FR, ES, BR, CN, MX, IT, AU, KR, JP, TW, BJ, AR, CA, PT, ZA, CO, BO, PY, ID",
+planta,Monteverdia ilicifolia,Cangorosa,,Plantae,Tracheophyta,Magnoliopsida,Celastrales,Celastraceae,Monteverdia,"BR, PY, AR, UY, BO, US, CL, GY, ZZ",/static/especies/monteverdia_ilicifolia/image.jpg
+planta,Terminalia triflora,,,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Combretaceae,Terminalia,"BR, PY, AR, BO, ZZ, US, VN",/static/especies/terminalia_triflora/image.jpg
+planta,Commelina erecta,,,Plantae,Tracheophyta,Liliopsida,Commelinales,Commelinaceae,Commelina,"US, MX, BR, AR, BJ, ZA, CO, NI, PA, BO, PR, PY, CR, GH, CW, UY, CU, SV, NG, GT",/static/especies/commelina_erecta/image.jpg
+planta,Eleocharis elegans,,,Plantae,Tracheophyta,Liliopsida,Poales,Cyperaceae,Eleocharis,"BR, MX, CR, CO, PY, EC, NI, PR, PE, AR, PA, VE, BO, JM, DO, HN, GT, SV, CU, BZ",/static/especies/eleocharis_elegans/image.jpg
+planta,Adelia membranifolia,,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Adelia,"BR, PY, BO, AR, VE, EC, CO, MX, US, ZZ",/static/especies/adelia_membranifolia/image.jpg
+planta,Sebastiania brasiliensis,,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Sebastiania,"BR, PY, AR, BO, UY, ZZ, CO, MX, VE, BZ, CL, SV",/static/especies/sebastiania_brasiliensis/image.jpg
+planta,Sapium hematostilum,kurupikay,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Sapium,"BR, CO, MX, AR, EC, CR, PE, BO, PY, CN, VE, CU, PA, NI, GY, UY, PR, GT, GF, SV",
+planta,Chloroleucon tenuiflorum,Tataré Espinillo,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Chloroleucon,"BR, BO, AR, PY, PE, US, CL, CU, VE, ZZ",/static/especies/chloroleucon_tenuiflorum/image.jpg
+planta,Vachellia caven,Aromita,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vachellia,"AR, CL, PY, BR, UY, BO, US, ES, ZZ, DZ, PE, BE, PT, BF, CU, EC, GB, GR, ZW",/static/especies/vachellia_caven/image.jpg
+planta,Peltophorum dubium,Yvyra pytã,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Peltophorum,"BR, AR, PY, CU, US, BO, MX, DO, BS, UY, JM, HT, GY, ZZ, VE, DM, ZW, IN, PE",/static/especies/peltophorum_dubium/image.jpg
+planta,Enterolobium contortisiliquum,Timbo,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Enterolobium,"BR, AR, US, BO, PY, UY, IN, ZW, CN, CO, EG, ZZ, BE, CD, CU, KE, PE, VE, ZA, AT",/static/especies/enterolobium_contortisiliquum/image.jpg
+planta,Parapiptadenia rigida,kurupa’y ra,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Parapiptadenia,"BR, PY, AR, BO, UY, ZZ, ES, US, CO, CU, EC, VE",/static/especies/parapiptadenia_rigida/image.jpg
+planta,Mimosa xanthocentra,,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,"BR, PY, BO, AR, CO, CR, VE, PE, NI, UY, ZZ",/static/especies/mimosa_xanthocentra/image.jpg
+planta,Erythrina crista-galli,ceibo,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Erythrina,"AU, AR, BR, UY, US, PY, PT, ZA, NZ, ZZ, CO, ES, IN, JP, CN, MX, ID, PE, CR, BO",/static/especies/erythrina_crista-galli/image.jpg
+planta,Gleditsia amorphoides,Yvope,,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Gleditsia,"AR, BR, PY, UY, BO, US, ES, IT, KE, MX, ZZ",/static/especies/gleditsia_amorphoides/image.jpg
+planta,Cypella aff. exilis,,,Plantae,Tracheophyta,Liliopsida,Asparagales,Iridaceae,Cypella,"BR, PY, UY, AR, GY",
+planta,Ocotea diospyrifolia,,,Plantae,Tracheophyta,Magnoliopsida,Laurales,Lauraceae,Ocotea,"BR, PY, AR, BO, PG, PE, CO, SR",/static/especies/ocotea_diospyrifolia/image.jpg
+planta,Ammannia auriculata,,,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Lythraceae,Ammannia,"AU, JP, US, TW, CN, MX, BR, IN, TZ, NG, BF, KR, BJ, NE, SN, MG, CM, SD, AF, BO",/static/especies/ammannia_auriculata/image.jpg
+planta,Cuphea racemosa,,,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Lythraceae,Cuphea,"BR, CO, AR, PY, EC, MX, BO, UY, PE, FR, DE, CR, US, CH, ES, ZZ, IT, AU, BG, CA",/static/especies/cuphea_racemosa/image.jpg
+planta,Bytneria filipes,,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,Byttneria,"BR, AR, PY, BO, MS, ZZ, PE",
+planta,Trichilia catigua,,,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Meliaceae,Trichilia,"BR, PY, AR, BO, PE, ZZ, MX, UY",/static/especies/trichilia_catigua/image.jpg
+planta,Dorstenia brasiliensis,Taropé,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Moraceae,Dorstenia,"BR, PY, UY, AR, BO, VE, GF, CO, GY, SR, PE, TT, GB, PA, US",/static/especies/dorstenia_brasiliensis/image.jpg
+planta,Sorocea saxicola,,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Moraceae,Sorocea,"PY, AR, BR, BO, ZZ",/static/especies/sorocea_saxicola/image.jpg
+planta,Eugenia moraviana,,,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Eugenia,"BR, PY, BO, AR, PE, ZZ, EC",/static/especies/eugenia_moraviana/image.jpg
+planta,Pisonia aculeata,,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Nyctaginaceae,Pisonia,"MX, CO, BR, TW, AU, US, CR, CU, PY, CN, JP, PR, EC, NI, DO, AR, PH, JM, ID, NC",/static/especies/pisonia_aculeata/image.jpg
+planta,Campylocentrum neglectum,Orquídea,,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,Campylocentrum,"PY, BR, AR, BO",/static/especies/campylocentrum_neglectum/image.jpg
+planta,Trichocentrum pumilum,orquídea,,Plantae,Tracheophyta,Liliopsida,Asparagales,Orchidaceae,Trichocentrum,"BR, PY, AR, UY, CO, US, ZZ, BE, FR, PE",/static/especies/trichocentrum_pumilum/image.jpg
+planta,Seguieria paraguayensis,,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Phytolaccaceae,Seguieria,"PY, BO, AR, BR",
+planta,Petiveria alliacea,pipí,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Phytolaccaceae,Petiveria,"BR, MX, CO, US, CR, AR, NI, PY, BO, PR, PA, PE, CU, SV, BJ, EC, VE, DO, NG, HN",/static/especies/petiveria_alliacea/image.jpg
+planta,Scoparia dulcis,Typycha kuratú,,,,,,,,,/static/especies/scoparia_dulcis/image.jpg
+planta,Setaria parviflora,,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,Setaria,"AU, US, BR, MX, BJ, PT, TW, AR, FR, ES, CO, BF, ID, EC, CR, CM, PY, CI, BO, TZ",/static/especies/setaria_parviflora/image.jpg
+planta,Andropogon lateralis,,,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,Andropogon,"BR, AR, PY, BO, UY, CO, CU, PE, ZZ, AF, EC, US, AU, BZ, HT, MG, NI, PA",/static/especies/andropogon_lateralis/image.jpg
+planta,Ruprechtia laxiflora,,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Polygonaceae,Ruprechtia,"BR, AR, PY, BO, UY, PE, ZZ, VE, BE, CO, GY",/static/especies/ruprechtia_laxiflora/image.jpg
+planta,Pontederia cordata,aguapé,,Plantae,Tracheophyta,Liliopsida,Commelinales,Pontederiaceae,Pontederia,"US, CA, NL, BE, BR, PY, AR, GB, ZA, DE, FR, CZ, MX, CH, CN, MO, AU, CO, UY, BO",/static/especies/pontederia_cordata/image.jpg
+planta,Portulaca umbraticola,,,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Portulacaceae,Portulaca,"US, BR, MX, IN, AR, PA, TW, EC, CR, PY, PH, ZA, HK, CN, CO, MY, ID, PE, NI, TH",/static/especies/portulaca_umbraticola/image.jpg
+planta,Adiantopsis tweediana,Helecho,,Plantae,Tracheophyta,Polypodiopsida,Polypodiales,Pteridaceae,Adiantopsis,"AR, PY, BO, BR, UY",/static/especies/adiantopsis_tweediana/image.jpg
+planta,Xylosma venosa,,,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Salicaceae,Xylosma,"PY, AR, BR, BO, UY, ZZ",/static/especies/xylosma_venosa/image.jpg
+planta,Paullinia pinnata,,,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Sapindaceae,Paullinia,"BJ, BR, MX, CD, CM, PY, PR, CI, TZ, NG, GN, BF, GA, GH, MG, GF, ET, SR, TG, CR",/static/especies/paullinia_pinnata/image.jpg
+planta,Allophylus edulis,kokû,,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Sapindaceae,Allophylus,"BR, AR, PY, BO, UY, CO, GF, SR, PE, MX, BZ, ES, ZZ, EC, GY, PR, VE",/static/especies/allophylus_edulis/image.jpg
+planta,Smilax campestris,,,Plantae,Tracheophyta,Liliopsida,Liliales,Smilacaceae,Smilax,"BR, AR, UY, BO, PY, VE, ZZ, ID",/static/especies/smilax_campestris/image.jpg
+planta,Sidastrum paniculatum,,,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,Sidastrum,"BR, PY, EC, MX, PE, BO, CO, US, CD, PF, JM, CU, AR, VE, HN, NC, CM, CF, GT, UG",/static/especies/sidastrum_paniculatum/image.jpg
+planta,Solanum amygdalifolium,,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,"AR, PY, BR, UY, BO, PR, CL, CH, ES, MX, CU, PA, PG",/static/especies/solanum_amygdalifolium/image.jpg
+planta,Jaborosa integrifolia,tabaquillo,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Jaborosa,"AR, PY, US, UY, BR, FR, TW, ZZ, MX, NO, PE, SE",/static/especies/jaborosa_integrifolia/image.jpg
+planta,Solanum glaucoophyllum,,,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,"AR, PY, BR, UY, BO, JP, US, PT, FR, ZZ, AF, IN, NP, DZ, PE, TW, AU, BD, CN, CR",
+planta,Phyllostylon rhamnoides,Palo lanza,,Plantae,Tracheophyta,Magnoliopsida,Rosales,Ulmaceae,Phyllostylon,"CO, BO, AR, NI, PY, MX, CU, BR, DO, HN, HT, VE, GT, CR, JM, SV, PG, ZZ",/static/especies/phyllostylon_rhamnoides/image.jpg
+planta,Glandularia peruviana,,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Verbenaceae,Verbena,"AR, BR, PY, UY, BO, US, FR, MX, BL, GF, GP, MQ, AM, CA, CL, DE, DK, EC, HR, LS",/static/especies/glandularia_peruviana/image.jpg
+planta,Stachytarpheta cayenensis,Tatu ruguai,,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Verbenaceae,Stachytarpheta,"BR, US, AU, CO, PY, AR, MX, EC, BO, CR, PE, CM, NG, GT, PG, VE, BJ, BZ, GY, PR",

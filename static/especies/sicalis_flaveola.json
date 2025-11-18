@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Sicalis flaveola",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Sicalis flaveola",
+    "common_name": "Saffron Finch",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/220765971/medium.jpg"
+    ],
+    "image_local": "/static/especies/sicalis_flaveola/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/9864"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2491862,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Thraupidae",
+    "genus": "Sicalis",
+    "species": "Sicalis flaveola",
+    "vernacular_name": "Saffron Finch",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "VE",
+      "US",
+      "EC",
+      "PE",
+      "UY",
+      "PY",
+      "PA",
+      "BO",
+      "CW",
+      "BQ",
+      "PR",
+      "TT",
+      "CL",
+      "JM",
+      "GY",
+      "AW",
+      "ZZ"
+    ],
+    "url": "https://www.gbif.org/species/2491862"
+  }
+}

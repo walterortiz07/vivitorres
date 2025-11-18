@@ -1,0 +1,38 @@
+{
+  "scientific_name": "Embernagra platensis",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Embernagra platensis",
+    "common_name": "Great Pampa-Finch",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/48721764/medium.jpeg"
+    ],
+    "image_local": "/static/especies/embernagra_platensis/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/10670"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2492002,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Thraupidae",
+    "genus": "Embernagra",
+    "species": "Embernagra platensis",
+    "vernacular_name": "Great Pampa-Finch / Pampa Finch",
+    "countries": [
+      "AR",
+      "UY",
+      "BR",
+      "PY",
+      "BO",
+      "ZZ",
+      "DK",
+      "MX",
+      "PE"
+    ],
+    "url": "https://www.gbif.org/species/2492002"
+  }
+}

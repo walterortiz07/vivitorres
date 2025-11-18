@@ -1,0 +1,39 @@
+{
+  "scientific_name": "Solanum glaucoophyllum",
+  "inat": {},
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2929370,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Solanales",
+    "family": "Solanaceae",
+    "genus": "Solanum",
+    "species": "Solanum glaucophyllum",
+    "vernacular_name": "Waxyleaf nightshade",
+    "countries": [
+      "AR",
+      "PY",
+      "BR",
+      "UY",
+      "BO",
+      "JP",
+      "US",
+      "PT",
+      "FR",
+      "ZZ",
+      "AF",
+      "IN",
+      "NP",
+      "DZ",
+      "PE",
+      "TW",
+      "AU",
+      "BD",
+      "CN",
+      "CR"
+    ],
+    "url": "https://www.gbif.org/species/2929370"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "scientific_name": "Thraupis sayaca",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Thraupis sayaca",
+    "common_name": "Sayaca Tanager",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/9892758/medium.jpg"
+    ],
+    "image_local": "/static/especies/thraupis_sayaca/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/10293"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2488622,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Thraupidae",
+    "genus": "Thraupis",
+    "species": "Thraupis sayaca",
+    "vernacular_name": "Sayaca Tanager",
+    "countries": [
+      "BR",
+      "AR",
+      "PY",
+      "BO",
+      "UY",
+      "VE",
+      "CO",
+      "CL",
+      "PE",
+      "US",
+      "MX",
+      "DK",
+      "ZZ",
+      "DE"
+    ],
+    "url": "https://www.gbif.org/species/2488622"
+  }
+}

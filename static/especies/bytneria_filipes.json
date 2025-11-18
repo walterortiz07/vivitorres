@@ -1,0 +1,26 @@
+{
+  "scientific_name": "Bytneria filipes",
+  "inat": {},
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 7322937,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Malvales",
+    "family": "Malvaceae",
+    "genus": "Byttneria",
+    "species": "Byttneria filipes",
+    "vernacular_name": null,
+    "countries": [
+      "BR",
+      "AR",
+      "PY",
+      "BO",
+      "MS",
+      "ZZ",
+      "PE"
+    ],
+    "url": "https://www.gbif.org/species/7322937"
+  }
+}

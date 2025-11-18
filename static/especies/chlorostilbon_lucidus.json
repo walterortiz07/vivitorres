@@ -1,0 +1,40 @@
+{
+  "scientific_name": "Chlorostilbon lucidus",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Chlorostilbon lucidus",
+    "common_name": "Glittering-bellied Emerald",
+    "summary": null,
+    "images_remote": [
+      "https://static.inaturalist.org/photos/251801157/medium.jpg"
+    ],
+    "image_local": "/static/especies/chlorostilbon_lucidus/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/6085"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 5788555,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Apodiformes",
+    "family": "Trochilidae",
+    "genus": "Chlorostilbon",
+    "species": "Chlorostilbon lucidus",
+    "vernacular_name": "Glittering-bellied Emerald",
+    "countries": [
+      "AR",
+      "BR",
+      "UY",
+      "PY",
+      "BO",
+      "CL",
+      "ZZ",
+      "US",
+      "EC",
+      "PE",
+      "VE"
+    ],
+    "url": "https://www.gbif.org/species/5788555"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Petiveria alliacea",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Petiveria alliacea",
+    "common_name": "Guinea Hen Weed",
+    "summary": null,
+    "images_remote": [
+      "https://static.inaturalist.org/photos/152789991/medium.jpg"
+    ],
+    "image_local": "/static/especies/petiveria_alliacea/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/166545"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 3084012,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Caryophyllales",
+    "family": "Phytolaccaceae",
+    "genus": "Petiveria",
+    "species": "Petiveria alliacea",
+    "vernacular_name": "Guinea Henweed",
+    "countries": [
+      "BR",
+      "MX",
+      "CO",
+      "US",
+      "CR",
+      "AR",
+      "NI",
+      "PY",
+      "BO",
+      "PR",
+      "PA",
+      "PE",
+      "CU",
+      "SV",
+      "BJ",
+      "EC",
+      "VE",
+      "DO",
+      "NG",
+      "HN"
+    ],
+    "url": "https://www.gbif.org/species/3084012"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "scientific_name": "Sorocea saxicola",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Sorocea sprucei saxicola",
+    "common_name": null,
+    "summary": null,
+    "images_remote": [
+      "https://static.inaturalist.org/photos/127866897/medium.jpeg"
+    ],
+    "image_local": "/static/especies/sorocea_saxicola/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/965527"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 7262370,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Moraceae",
+    "genus": "Sorocea",
+    "species": "Sorocea sprucei",
+    "vernacular_name": null,
+    "countries": [
+      "PY",
+      "AR",
+      "BR",
+      "BO",
+      "ZZ"
+    ],
+    "url": "https://www.gbif.org/species/7262370"
+  }
+}

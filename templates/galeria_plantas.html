@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h2 class="mb-4">Galería de Plantas</h2>
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+
+  {% for planta in plantas %}
+  <div class="col">
+    <div class="card h-100 shadow-sm">
+
+      {% if planta.imagen_local %}
+        <img src="{{ planta.imagen_local }}" class="card-img-top" style="height: 200px; object-fit: cover;">
+      {% else %}
+        <img src="https://via.placeholder.com/400x200?text=Sin+Imagen" class="card-img-top">
+      {% endif %}
+
+      <div class="card-body">
+        <h5 class="card-title">{{ planta.nombre_comun or planta.especie }}</h5>
+        <p class="card-text"><i>{{ planta.especie }}</i></p>
+      </div>
+
+      <div class="card-footer text-center">
+        <a class="btn btn-primary" href="/plantas/{{ planta.id }}">Ver detalle</a>
+      </div>
+
+    </div>
+  </div>
+  {% endfor %}
+
+</div>
+
+{% endblock %}

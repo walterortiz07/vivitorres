@@ -1,0 +1,48 @@
+{
+  "scientific_name": "Peltophorum dubium",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Peltophorum dubium",
+    "common_name": "Yellow Poinciana",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/58026515/medium.jpeg"
+    ],
+    "image_local": "/static/especies/peltophorum_dubium/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/290016"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2952798,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae",
+    "genus": "Peltophorum",
+    "species": "Peltophorum dubium",
+    "vernacular_name": "Horsebush",
+    "countries": [
+      "BR",
+      "AR",
+      "PY",
+      "CU",
+      "US",
+      "BO",
+      "MX",
+      "DO",
+      "BS",
+      "UY",
+      "JM",
+      "HT",
+      "GY",
+      "ZZ",
+      "VE",
+      "DM",
+      "ZW",
+      "IN",
+      "PE"
+    ],
+    "url": "https://www.gbif.org/species/2952798"
+  }
+}

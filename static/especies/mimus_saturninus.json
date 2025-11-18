@@ -1,0 +1,37 @@
+{
+  "scientific_name": "Mimus saturninus",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Mimus saturninus",
+    "common_name": "Chalk-browed Mockingbird",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/197389027/medium.jpg"
+    ],
+    "image_local": "/static/especies/mimus_saturninus/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/14878"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 5231675,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Mimidae",
+    "genus": "Mimus",
+    "species": "Mimus saturninus",
+    "vernacular_name": "Chalk-browed Mockingbird",
+    "countries": [
+      "AR",
+      "BR",
+      "UY",
+      "PY",
+      "BO",
+      "SR",
+      "ZZ",
+      "CL"
+    ],
+    "url": "https://www.gbif.org/species/5231675"
+  }
+}

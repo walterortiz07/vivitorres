@@ -1,0 +1,36 @@
+{
+  "scientific_name": "Pachyramphus validus",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Pachyramphus validus",
+    "common_name": "Crested Becard",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/352203655/medium.jpg"
+    ],
+    "image_local": "/static/especies/pachyramphus_validus/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/8681"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 5230321,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Cotingidae",
+    "genus": "Pachyramphus",
+    "species": "Pachyramphus validus",
+    "vernacular_name": "Crested Becard",
+    "countries": [
+      "BR",
+      "AR",
+      "PY",
+      "PE",
+      "BO",
+      "UY",
+      "ZZ"
+    ],
+    "url": "https://www.gbif.org/species/5230321"
+  }
+}

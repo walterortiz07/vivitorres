@@ -1,0 +1,46 @@
+{
+  "scientific_name": "Guira guira",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Passerina",
+    "common_name": "North American Buntings",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/225195/medium.jpg"
+    ],
+    "image_local": "/static/especies/guira_guira/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/10223"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2496462,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Cuculiformes",
+    "family": "Cuculidae",
+    "genus": "Guira",
+    "species": "Guira guira",
+    "vernacular_name": "Guira Cuckoo",
+    "countries": [
+      "AR",
+      "BR",
+      "UY",
+      "PY",
+      "BO",
+      "CL",
+      "DE",
+      "ZZ",
+      "PE",
+      "CW",
+      "GR",
+      "AT",
+      "DK",
+      "ES",
+      "HT",
+      "MX",
+      "US"
+    ],
+    "url": "https://www.gbif.org/species/2496462"
+  }
+}

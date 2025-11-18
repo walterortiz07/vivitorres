@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Passer domesticus",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Passer domesticus",
+    "common_name": "House Sparrow",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/4608133/medium.jpg"
+    ],
+    "image_local": "/static/especies/passer_domesticus/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/13858"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 5231190,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Passeridae",
+    "genus": "Passer",
+    "species": "Passer domesticus",
+    "vernacular_name": "House Sparrow",
+    "countries": [
+      "US",
+      "CA",
+      "ES",
+      "FR",
+      "GB",
+      "NL",
+      "AU",
+      "DE",
+      "IN",
+      "PT",
+      "SE",
+      "NO",
+      "NZ",
+      "ZA",
+      "MX",
+      "FI",
+      "BR",
+      "AR",
+      "BE",
+      "DK"
+    ],
+    "url": "https://www.gbif.org/species/5231190"
+  }
+}

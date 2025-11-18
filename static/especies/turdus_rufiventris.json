@@ -1,0 +1,38 @@
+{
+  "scientific_name": "Turdus rufiventris",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Turdus rufiventris",
+    "common_name": "Rufous-bellied Thrush",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/1507197/medium.jpg"
+    ],
+    "image_local": "/static/especies/turdus_rufiventris/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/12738"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2490718,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Turdidae",
+    "genus": "Turdus",
+    "species": "Turdus rufiventris",
+    "vernacular_name": "Rufous-bellied Thrush",
+    "countries": [
+      "BR",
+      "AR",
+      "UY",
+      "PY",
+      "BO",
+      "PE",
+      "ZZ",
+      "TW",
+      "VE"
+    ],
+    "url": "https://www.gbif.org/species/2490718"
+  }
+}

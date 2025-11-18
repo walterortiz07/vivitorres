@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Falco sparverius",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Falco sparverius",
+    "common_name": "American Kestrel",
+    "summary": null,
+    "images_remote": [
+      "https://static.inaturalist.org/photos/174574440/medium.jpg"
+    ],
+    "image_local": "/static/especies/falco_sparverius/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/4665"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 9685907,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Falconiformes",
+    "family": "Falconidae",
+    "genus": "Falco",
+    "species": "Falco sparverius",
+    "vernacular_name": "American Kestrel",
+    "countries": [
+      "US",
+      "CA",
+      "MX",
+      "AR",
+      "CL",
+      "CO",
+      "PE",
+      "BR",
+      "PR",
+      "CU",
+      "EC",
+      "BS",
+      "UY",
+      "DO",
+      "JM",
+      "HN",
+      "PA",
+      "BZ",
+      "VE",
+      "BO"
+    ],
+    "url": "https://www.gbif.org/species/9685907"
+  }
+}

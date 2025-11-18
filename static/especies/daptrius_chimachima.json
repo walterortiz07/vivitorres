@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Daptrius chimachima",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Daptrius chimachima",
+    "common_name": "Yellow-headed Caracara",
+    "summary": null,
+    "images_remote": [
+      "https://static.inaturalist.org/photos/79568634/medium.jpeg"
+    ],
+    "image_local": "/static/especies/daptrius_chimachima/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/1432779"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2481072,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Falconiformes",
+    "family": "Falconidae",
+    "genus": "Daptrius",
+    "species": null,
+    "vernacular_name": null,
+    "countries": [
+      "AR",
+      "CL",
+      "CO",
+      "BR",
+      "CR",
+      "PA",
+      "PE",
+      "EC",
+      "VE",
+      "UY",
+      "BO",
+      "PY",
+      "TT",
+      "GY",
+      "FK",
+      "SR",
+      "US",
+      "GF",
+      "NI",
+      "AW"
+    ],
+    "url": "https://www.gbif.org/species/2481072"
+  }
+}

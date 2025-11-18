@@ -1,0 +1,85 @@
+{% extends "base.html" %}
+{% block content %}
+
+{% set info = info or {} %}
+{% set resumen = info.get("resumen") %}
+{% set tax = info.get("taxonomia", {}) %}
+{% set imagen_local = info.get("imagen_local") %}
+{% set paises = info.get("paises") %}
+
+<div class="card shadow-sm">
+  <div class="card-body">
+
+    <h2 class="mb-3">
+      {{ ave["nombre_comun"] or ave["especie"] }}
+    </h2>
+
+    <!-- Imagen -->
+    <div class="mb-3 text-center">
+      {% if imagen_local %}
+        <img src="{{ imagen_local }}" class="img-fluid rounded" style="max-height: 280px;">
+      {% else %}
+        <img src="https://via.placeholder.com/600x300?text=Sin+imagen" 
+             class="img-fluid rounded" style="max-height: 280px;">
+      {% endif %}
+    </div>
+
+    <h4 class="mt-4">Información básica</h4>
+    <table class="table table-bordered w-auto bg-white">
+      <tr><th>Especie</th><td>{{ ave["especie"] }}</td></tr>
+      <tr><th>Nombre común</th><td>{{ ave["nombre_comun"] }}</td></tr>
+      <tr><th>Orden</th><td>{{ ave["orden"] }}</td></tr>
+      <tr><th>Familia</th><td>{{ ave["familia"] }}</td></tr>
+      <tr><th>Sabana</th><td>{{ "Sí" if ave["s"] else "No" }}</td></tr>
+      <tr><th>Bosque</th><td>{{ "Sí" if ave["b"] else "No" }}</td></tr>
+    </table>
+
+    <hr>
+
+    <!-- INFO OFFLINE -->
+    <h4 class="mb-3">Información adicional (offline)</h4>
+
+    {% if not info %}
+      <p class="text-muted">No se encontró información adicional para esta especie.</p>
+    {% else %}
+
+      {% if resumen %}
+        <p style="font-size: 1.1rem;">{{ resumen }}</p>
+      {% endif %}
+
+      <!-- Taxonomía -->
+      {% if tax %}
+        <h5 class="mt-3">Taxonomía</h5>
+        <ul>
+          {% if tax.reino %}<li><strong>Reino:</strong> {{ tax.reino }}</li>{% endif %}
+          {% if tax.filo %}<li><strong>Filo:</strong> {{ tax.filo }}</li>{% endif %}
+          {% if tax.clase %}<li><strong>Clase:</strong> {{ tax.clase }}</li>{% endif %}
+          {% if tax.orden %}<li><strong>Orden:</strong> {{ tax.orden }}</li>{% endif %}
+          {% if tax.familia %}<li><strong>Familia:</strong> {{ tax.familia }}</li>{% endif %}
+          {% if tax.genero %}<li><strong>Género:</strong> {{ tax.genero }}</li>{% endif %}
+        </ul>
+      {% endif %}
+
+      {% if paises %}
+        <h5 class="mt-3">Distribución</h5>
+        <ul>
+          {% for p in paises %}
+            <li>{{ p }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+
+    {% endif %}
+
+    <hr>
+
+    <h5>Código QR</h5>
+    <img src="{{ url_for('qr_ave', item_id=ave['id']) }}" width="150" class="mb-3">
+
+    <br>
+    <a href="{{ url_for('listar_aves') }}" class="btn btn-secondary">← Volver a aves</a>
+
+  </div>
+</div>
+
+{% endblock %}

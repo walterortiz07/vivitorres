@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Parula pitiayumi",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Setophaga pitiayumi",
+    "common_name": "Tropical Parula",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/115454163/medium.jpg"
+    ],
+    "image_local": "/static/especies/parula_pitiayumi/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/145234"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2489715,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Parulidae",
+    "genus": "Setophaga",
+    "species": "Setophaga pitiayumi",
+    "vernacular_name": "Tropical Parula",
+    "countries": [
+      "CO",
+      "MX",
+      "AR",
+      "BR",
+      "EC",
+      "US",
+      "CR",
+      "BO",
+      "PY",
+      "UY",
+      "GF",
+      "HN",
+      "PA",
+      "VE",
+      "PE",
+      "GY",
+      "ZZ",
+      "BZ",
+      "TT",
+      "SR"
+    ],
+    "url": "https://www.gbif.org/species/2489715"
+  }
+}

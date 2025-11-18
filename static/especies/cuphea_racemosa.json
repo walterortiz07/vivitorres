@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Cuphea racemosa",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Cuphea racemosa",
+    "common_name": null,
+    "summary": null,
+    "images_remote": [
+      "https://static.inaturalist.org/photos/20558059/medium.jpeg"
+    ],
+    "image_local": "/static/especies/cuphea_racemosa/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/285357"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 7286020,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Myrtales",
+    "family": "Lythraceae",
+    "genus": "Cuphea",
+    "species": "Cuphea racemosa",
+    "vernacular_name": null,
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "PY",
+      "EC",
+      "MX",
+      "BO",
+      "UY",
+      "PE",
+      "FR",
+      "DE",
+      "CR",
+      "US",
+      "CH",
+      "ES",
+      "ZZ",
+      "IT",
+      "AU",
+      "BG",
+      "CA"
+    ],
+    "url": "https://www.gbif.org/species/7286020"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "scientific_name": "Seguieria paraguayensis",
+  "inat": {},
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 7401967,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Caryophyllales",
+    "family": "Phytolaccaceae",
+    "genus": "Seguieria",
+    "species": "Seguieria paraguayensis",
+    "vernacular_name": null,
+    "countries": [
+      "PY",
+      "BO",
+      "AR",
+      "BR"
+    ],
+    "url": "https://www.gbif.org/species/7401967"
+  }
+}

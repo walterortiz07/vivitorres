@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Nannopterum brasilianum",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Nannopterum brasilianum",
+    "common_name": "Neotropic Cormorant",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/23856507/medium.jpg"
+    ],
+    "image_local": "/static/especies/nannopterum_brasilianum/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/1289601"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 9585234,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Suliformes",
+    "family": "Phalacrocoracidae",
+    "genus": "Phalacrocorax",
+    "species": "Phalacrocorax brasilianus",
+    "vernacular_name": "Neotropical cormorant",
+    "countries": [
+      "US",
+      "CL",
+      "AR",
+      "MX",
+      "BR",
+      "CO",
+      "CR",
+      "PE",
+      "PA",
+      "BZ",
+      "UY",
+      "EC",
+      "VE",
+      "GT",
+      "HN",
+      "PY",
+      "CU",
+      "NI",
+      "BO",
+      "SV"
+    ],
+    "url": "https://www.gbif.org/species/9585234"
+  }
+}

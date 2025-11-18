@@ -1,0 +1,39 @@
+{
+  "scientific_name": "Stachytarpheta cayenensis",
+  "inat": {},
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2925454,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Verbenaceae",
+    "genus": "Stachytarpheta",
+    "species": "Stachytarpheta cayennensis",
+    "vernacular_name": "Cayenne porterweed",
+    "countries": [
+      "BR",
+      "US",
+      "AU",
+      "CO",
+      "PY",
+      "AR",
+      "MX",
+      "EC",
+      "BO",
+      "CR",
+      "PE",
+      "CM",
+      "NG",
+      "GT",
+      "PG",
+      "VE",
+      "BJ",
+      "BZ",
+      "GY",
+      "PR"
+    ],
+    "url": "https://www.gbif.org/species/2925454"
+  }
+}

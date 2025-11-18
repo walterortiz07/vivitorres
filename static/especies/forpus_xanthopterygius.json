@@ -1,0 +1,41 @@
+{
+  "scientific_name": "Forpus xanthopterygius",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Forpus xanthopterygius",
+    "common_name": "Cobalt-rumped Parrotlet",
+    "summary": null,
+    "images_remote": [
+      "https://static.inaturalist.org/photos/66445922/medium.jpg"
+    ],
+    "image_local": "/static/especies/forpus_xanthopterygius/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/19069"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2479075,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Psittaciformes",
+    "family": "Psittacidae",
+    "genus": "Forpus",
+    "species": "Forpus xanthopterygius",
+    "vernacular_name": "Blue-winged Parrotlet",
+    "countries": [
+      "BR",
+      "CO",
+      "PY",
+      "BO",
+      "AR",
+      "PE",
+      "EC",
+      "ZZ",
+      "MX",
+      "GR",
+      "JM",
+      "VE"
+    ],
+    "url": "https://www.gbif.org/species/2479075"
+  }
+}

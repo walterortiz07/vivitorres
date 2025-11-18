@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Thamnophilus doliatus",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Thamnophilus doliatus",
+    "common_name": "Barred Antshrike",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/1854563/medium.JPG"
+    ],
+    "image_local": "/static/especies/thamnophilus_doliatus/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/15764"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 5959208,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Thamnophilidae",
+    "genus": "Thamnophilus",
+    "species": "Thamnophilus doliatus",
+    "vernacular_name": "Barred Antshrike",
+    "countries": [
+      "CR",
+      "BR",
+      "CO",
+      "BZ",
+      "PA",
+      "VE",
+      "MX",
+      "GT",
+      "TT",
+      "PE",
+      "HN",
+      "PY",
+      "NI",
+      "AR",
+      "BO",
+      "GF",
+      "GY",
+      "SV",
+      "SR",
+      "EC"
+    ],
+    "url": "https://www.gbif.org/species/5959208"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Molothrus bonariensis",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Molothrus bonariensis",
+    "common_name": "Shiny Cowbird",
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/158695164/medium.jpg"
+    ],
+    "image_local": "/static/especies/molothrus_bonariensis/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/10371"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2484396,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Icteridae",
+    "genus": "Molothrus",
+    "species": "Molothrus bonariensis",
+    "vernacular_name": "Shiny Cowbird",
+    "countries": [
+      "AR",
+      "CO",
+      "BR",
+      "CL",
+      "EC",
+      "UY",
+      "PR",
+      "PE",
+      "VE",
+      "PA",
+      "PY",
+      "CR",
+      "TT",
+      "US",
+      "BO",
+      "CU",
+      "AW",
+      "BB",
+      "GY",
+      "CW"
+    ],
+    "url": "https://www.gbif.org/species/2484396"
+  }
+}

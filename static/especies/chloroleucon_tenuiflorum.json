@@ -1,0 +1,39 @@
+{
+  "scientific_name": "Chloroleucon tenuiflorum",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Chloroleucon tenuiflorum",
+    "common_name": null,
+    "summary": null,
+    "images_remote": [
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/309872398/medium.jpeg"
+    ],
+    "image_local": "/static/especies/chloroleucon_tenuiflorum/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/969060"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2943107,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae",
+    "genus": "Chloroleucon",
+    "species": "Chloroleucon tenuiflorum",
+    "vernacular_name": null,
+    "countries": [
+      "BR",
+      "BO",
+      "AR",
+      "PY",
+      "PE",
+      "US",
+      "CL",
+      "CU",
+      "VE",
+      "ZZ"
+    ],
+    "url": "https://www.gbif.org/species/2943107"
+  }
+}

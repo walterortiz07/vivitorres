@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Enterolobium contortisiliquum",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Enterolobium contortisiliquum",
+    "common_name": "Pacara Earpod Tree",
+    "summary": null,
+    "images_remote": [
+      "https://static.inaturalist.org/photos/35636500/medium.jpeg"
+    ],
+    "image_local": "/static/especies/enterolobium_contortisiliquum/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/52446"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 2961170,
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae",
+    "genus": "Enterolobium",
+    "species": "Enterolobium contortisiliquum",
+    "vernacular_name": "Pacara earpod tree",
+    "countries": [
+      "BR",
+      "AR",
+      "US",
+      "BO",
+      "PY",
+      "UY",
+      "IN",
+      "ZW",
+      "CN",
+      "CO",
+      "EG",
+      "ZZ",
+      "BE",
+      "CD",
+      "CU",
+      "KE",
+      "PE",
+      "VE",
+      "ZA",
+      "AT"
+    ],
+    "url": "https://www.gbif.org/species/2961170"
+  }
+}

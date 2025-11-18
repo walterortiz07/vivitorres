@@ -1,0 +1,49 @@
+{
+  "scientific_name": "Aratinga nenday",
+  "inat": {
+    "source": "iNaturalist",
+    "scientific_name": "Aratinga nenday",
+    "common_name": "Nanday Parakeet",
+    "summary": null,
+    "images_remote": [
+      "https://static.inaturalist.org/photos/27370462/medium.jpg"
+    ],
+    "image_local": "/static/especies/aratinga_nenday/image.jpg",
+    "url": "https://www.inaturalist.org/taxa/367562"
+  },
+  "gbif": {
+    "source": "GBIF",
+    "gbif_key": 8257325,
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Psittaciformes",
+    "family": "Psittacidae",
+    "genus": "Nandayus",
+    "species": "Nandayus nenday",
+    "vernacular_name": "Nanday Parakeet",
+    "countries": [
+      "US",
+      "AR",
+      "BR",
+      "PY",
+      "ES",
+      "BO",
+      "AE",
+      "UY",
+      "MX",
+      "IL",
+      "BS",
+      "PR",
+      "IT",
+      "BH",
+      "ZZ",
+      "GP",
+      "BE",
+      "GB",
+      "NL",
+      "AU"
+    ],
+    "url": "https://www.gbif.org/species/8257325"
+  }
+}
